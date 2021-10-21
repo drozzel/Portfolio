@@ -1,0 +1,1501 @@
+,Business,City,Price,Review,ID
+0,Acme Barbershop,Seattle,2,5,9RA7sdvrGrK6QkEsevrMQw
+1,Acme Barbershop,Seattle,2,5,9RA7sdvrGrK6QkEsevrMQw
+2,Acme Barbershop,Seattle,2,5,9RA7sdvrGrK6QkEsevrMQw
+3,Rudy's Barbershop,Seattle,2,5,alnUjQudDUZS-WpdyY6vqw
+4,Rudy's Barbershop,Seattle,2,1,alnUjQudDUZS-WpdyY6vqw
+5,Rudy's Barbershop,Seattle,2,5,alnUjQudDUZS-WpdyY6vqw
+6,Gary Manuel Studio,Seattle,2,5,jFIxui3XL27NvIiDMxPfIg
+7,Gary Manuel Studio,Seattle,2,5,jFIxui3XL27NvIiDMxPfIg
+8,Gary Manuel Studio,Seattle,2,2,jFIxui3XL27NvIiDMxPfIg
+9,Sports Hair Salon,Seattle,1,5,GpAJe04uCg6m1JxZP9Ljxw
+10,Sports Hair Salon,Seattle,1,5,GpAJe04uCg6m1JxZP9Ljxw
+11,Sports Hair Salon,Seattle,1,5,GpAJe04uCg6m1JxZP9Ljxw
+12,Squire Barber Shop,Seattle,2,5,qCGIxiXqv4CvdlfNnpa00w
+13,Squire Barber Shop,Seattle,2,1,qCGIxiXqv4CvdlfNnpa00w
+14,Squire Barber Shop,Seattle,2,5,qCGIxiXqv4CvdlfNnpa00w
+15,Rudy's Barbershop,Seattle,2,5,v5FdjtpzDtvyidDHuQ6ylQ
+16,Rudy's Barbershop,Seattle,2,1,v5FdjtpzDtvyidDHuQ6ylQ
+17,Rudy's Barbershop,Seattle,2,3,v5FdjtpzDtvyidDHuQ6ylQ
+18,Rudy's Barbershop,Seattle,2,5,fIwa8N7KWqm_WdSjiB6r9g
+19,Rudy's Barbershop,Seattle,2,1,fIwa8N7KWqm_WdSjiB6r9g
+20,Rudy's Barbershop,Seattle,2,5,fIwa8N7KWqm_WdSjiB6r9g
+21,Raven,Seattle,2,5,fcyG6SXuJ9elu3aVtyip3A
+22,Raven,Seattle,2,5,fcyG6SXuJ9elu3aVtyip3A
+23,Raven,Seattle,2,5,fcyG6SXuJ9elu3aVtyip3A
+24,Rudy's Barbershop,Seattle,2,5,FEYUCxUzZAFh1uIn6b8K6A
+25,Rudy's Barbershop,Seattle,2,5,FEYUCxUzZAFh1uIn6b8K6A
+26,Rudy's Barbershop,Seattle,2,1,FEYUCxUzZAFh1uIn6b8K6A
+27,Hardware Salon,Seattle,1,5,6xjd7_QmXD2hTsRKkVXl6A
+28,Hardware Salon,Seattle,1,5,6xjd7_QmXD2hTsRKkVXl6A
+29,Hardware Salon,Seattle,1,1,6xjd7_QmXD2hTsRKkVXl6A
+30,Capelli's Gentlemen's Barbershop,Seattle,3,5,zwD-Z12WSzao3KfZmHJvSw
+31,Capelli's Gentlemen's Barbershop,Seattle,3,5,zwD-Z12WSzao3KfZmHJvSw
+32,Capelli's Gentlemen's Barbershop,Seattle,3,1,zwD-Z12WSzao3KfZmHJvSw
+33,Emperors Barbershop,Seattle,2,5,WMMCgm1VVvp9ogzY7-euLg
+34,Emperors Barbershop,Seattle,2,1,WMMCgm1VVvp9ogzY7-euLg
+35,Emperors Barbershop,Seattle,2,1,WMMCgm1VVvp9ogzY7-euLg
+36,Nola,Seattle,2,5,Yd1LUQ7Dox9uTZ9P7rYRsw
+37,Nola,Seattle,2,5,Yd1LUQ7Dox9uTZ9P7rYRsw
+38,Nola,Seattle,2,5,Yd1LUQ7Dox9uTZ9P7rYRsw
+39,Windy’s Barber Lounge,Seattle,2,5,wiiqc7llFhj3hb3MoEAhvg
+40,Windy’s Barber Lounge,Seattle,2,5,wiiqc7llFhj3hb3MoEAhvg
+41,Windy’s Barber Lounge,Seattle,2,5,wiiqc7llFhj3hb3MoEAhvg
+42,Hair Salon K,Seattle,3,5,WxGeKSbhmbUVJR9pRZ1QjA
+43,Hair Salon K,Seattle,3,4,WxGeKSbhmbUVJR9pRZ1QjA
+44,Hair Salon K,Seattle,3,5,WxGeKSbhmbUVJR9pRZ1QjA
+45,Rudy's Barbershop,Seattle,2,5,-A40ZnfCdnLTRW08V0dPfA
+46,Rudy's Barbershop,Seattle,2,1,-A40ZnfCdnLTRW08V0dPfA
+47,Rudy's Barbershop,Seattle,2,3,-A40ZnfCdnLTRW08V0dPfA
+48,Epic Barber Shop,Seattle,1,5,IZJjpIwRK6MQjcI3-g40mw
+49,Epic Barber Shop,Seattle,1,5,IZJjpIwRK6MQjcI3-g40mw
+50,Epic Barber Shop,Seattle,1,5,IZJjpIwRK6MQjcI3-g40mw
+51,Valentine's Men's Hair Tailor,Seattle,2,5,u_iJ-icm5oMSuW_muozGaw
+52,Valentine's Men's Hair Tailor,Seattle,2,1,u_iJ-icm5oMSuW_muozGaw
+53,Valentine's Men's Hair Tailor,Seattle,2,5,u_iJ-icm5oMSuW_muozGaw
+54,Counterbalance Barber Shop,Seattle,2,5,omv7XCHeJO_a4C7rQQIBQg
+55,Counterbalance Barber Shop,Seattle,2,1,omv7XCHeJO_a4C7rQQIBQg
+56,Counterbalance Barber Shop,Seattle,2,5,omv7XCHeJO_a4C7rQQIBQg
+57,The Roosevelt Barbershop,Seattle,2,5,8DGjhJx0xSNm9HDBTCnynw
+58,The Roosevelt Barbershop,Seattle,2,5,8DGjhJx0xSNm9HDBTCnynw
+59,The Roosevelt Barbershop,Seattle,2,1,8DGjhJx0xSNm9HDBTCnynw
+60,95th Street Barbershop,Seattle,1,5,07XG0LlBfRUkrC8iZQJCBw
+61,95th Street Barbershop,Seattle,1,4,07XG0LlBfRUkrC8iZQJCBw
+62,95th Street Barbershop,Seattle,1,5,07XG0LlBfRUkrC8iZQJCBw
+63,Capelli's Gentlemen's Barbershop,Seattle,3,5,rmiD_ie9yaHW1UP8kWJvSg
+64,Capelli's Gentlemen's Barbershop,Seattle,3,1,rmiD_ie9yaHW1UP8kWJvSg
+65,Capelli's Gentlemen's Barbershop,Seattle,3,5,rmiD_ie9yaHW1UP8kWJvSg
+66,Millheads Barbershop,Seattle,2,5,YZIo2b2WaL-bB4WnOgiFWA
+67,Millheads Barbershop,Seattle,2,1,YZIo2b2WaL-bB4WnOgiFWA
+68,Millheads Barbershop,Seattle,2,5,YZIo2b2WaL-bB4WnOgiFWA
+69,Tim's Barber Shop,Seattle,1,5,GfGOr4JDy0v2epnBSvfk0Q
+70,Tim's Barber Shop,Seattle,1,5,GfGOr4JDy0v2epnBSvfk0Q
+71,Tim's Barber Shop,Seattle,1,2,GfGOr4JDy0v2epnBSvfk0Q
+72,Johnny's Barbershop,Seattle,1,5,m-GrdygtZ8nrijVV4ZajuA
+73,Johnny's Barbershop,Seattle,1,5,m-GrdygtZ8nrijVV4ZajuA
+74,Johnny's Barbershop,Seattle,1,5,m-GrdygtZ8nrijVV4ZajuA
+75,Earl's Cuts & Styles,Seattle,2,5,FGhq7sQmGPl-VjhuNqJuQw
+76,Earl's Cuts & Styles,Seattle,2,1,FGhq7sQmGPl-VjhuNqJuQw
+77,Earl's Cuts & Styles,Seattle,2,5,FGhq7sQmGPl-VjhuNqJuQw
+78,Jess Barber Shop,Seattle,1,5,H41Z8x7XkbkycutIzTTpiA
+79,Jess Barber Shop,Seattle,1,5,H41Z8x7XkbkycutIzTTpiA
+80,Jess Barber Shop,Seattle,1,4,H41Z8x7XkbkycutIzTTpiA
+81,Ace Barber Shop,Seattle,2,1,9w-hhQEOZ1OFl32N8ceCrw
+82,Ace Barber Shop,Seattle,2,4,9w-hhQEOZ1OFl32N8ceCrw
+83,Ace Barber Shop,Seattle,2,5,9w-hhQEOZ1OFl32N8ceCrw
+84,The Head Shed,Seattle,1,5,JXYYO0UTAyUb3NrQWjnPqg
+85,The Head Shed,Seattle,1,5,JXYYO0UTAyUb3NrQWjnPqg
+86,The Head Shed,Seattle,1,5,JXYYO0UTAyUb3NrQWjnPqg
+87,The Head Shop,Seattle,2,5,MNxEevsInGgPLsunthCnyA
+88,The Head Shop,Seattle,2,5,MNxEevsInGgPLsunthCnyA
+89,The Head Shop,Seattle,2,1,MNxEevsInGgPLsunthCnyA
+90,BANG,Seattle,2,5,qhyXlL11liMEvarXJPA0pg
+91,BANG,Seattle,2,5,qhyXlL11liMEvarXJPA0pg
+92,BANG,Seattle,2,5,qhyXlL11liMEvarXJPA0pg
+93,Spin's Barber Shop,Seattle,2,5,8tOU_hYTX9dXzhxZNmuhVA
+94,Spin's Barber Shop,Seattle,2,5,8tOU_hYTX9dXzhxZNmuhVA
+95,Spin's Barber Shop,Seattle,2,4,8tOU_hYTX9dXzhxZNmuhVA
+96,Rudy's Barbershop,Seattle,2,5,xExEf3GiUF9R19NYubScJQ
+97,Rudy's Barbershop,Seattle,2,3,xExEf3GiUF9R19NYubScJQ
+98,Rudy's Barbershop,Seattle,2,5,xExEf3GiUF9R19NYubScJQ
+99,2 1/2 Happy Barbers,Seattle,1,5,mSFMR2dODFswAGyxVH1hiQ
+100,2 1/2 Happy Barbers,Seattle,1,5,mSFMR2dODFswAGyxVH1hiQ
+101,2 1/2 Happy Barbers,Seattle,1,5,mSFMR2dODFswAGyxVH1hiQ
+102,Supreme Cutz,Seattle,2,5,YufgMq7H3vtrnGKwcmO0mA
+103,Supreme Cutz,Seattle,2,1,YufgMq7H3vtrnGKwcmO0mA
+104,Supreme Cutz,Seattle,2,5,YufgMq7H3vtrnGKwcmO0mA
+105,Starline Barber Shop,Seattle,1,5,s1KhwQuiwCCrdYnVJhEhsQ
+106,Starline Barber Shop,Seattle,1,5,s1KhwQuiwCCrdYnVJhEhsQ
+107,Starline Barber Shop,Seattle,1,5,s1KhwQuiwCCrdYnVJhEhsQ
+108,Roosters Men's Grooming Center,Seattle,2,5,_ZlWhcxyqYBB0MmhzXw8DQ
+109,Roosters Men's Grooming Center,Seattle,2,3,_ZlWhcxyqYBB0MmhzXw8DQ
+110,Roosters Men's Grooming Center,Seattle,2,1,_ZlWhcxyqYBB0MmhzXw8DQ
+111,Valiant Barber Collective,Seattle,2,5,aWwxoexoqmEXfkvMK8xg1w
+112,Valiant Barber Collective,Seattle,2,5,aWwxoexoqmEXfkvMK8xg1w
+113,Valiant Barber Collective,Seattle,2,5,aWwxoexoqmEXfkvMK8xg1w
+114,University Ave Barbershop,Seattle,1,5,2KaY2WqWi9A7gVQUXSFRGQ
+115,University Ave Barbershop,Seattle,1,1,2KaY2WqWi9A7gVQUXSFRGQ
+116,University Ave Barbershop,Seattle,1,1,2KaY2WqWi9A7gVQUXSFRGQ
+117,Stu The Barber at Collage,Seattle,2,5,YGaQ6zmm3vDQn373c7vvGg
+118,Stu The Barber at Collage,Seattle,2,5,YGaQ6zmm3vDQn373c7vvGg
+119,Stu The Barber at Collage,Seattle,2,5,YGaQ6zmm3vDQn373c7vvGg
+120,Scissors Palace,Seattle,1,5,Uz7azbRIikRcCCU7-QeEqw
+121,Scissors Palace,Seattle,1,5,Uz7azbRIikRcCCU7-QeEqw
+122,Scissors Palace,Seattle,1,5,Uz7azbRIikRcCCU7-QeEqw
+123,Seattle Barber,Seattle,2,5,G3f3EtUmsuKWAQc79CJaJQ
+124,Seattle Barber,Seattle,2,5,G3f3EtUmsuKWAQc79CJaJQ
+125,Seattle Barber,Seattle,2,5,G3f3EtUmsuKWAQc79CJaJQ
+126,Jax Barber,Seattle,2,5,_jdw71G9bYkZBwHEFswOiA
+127,Jax Barber,Seattle,2,5,_jdw71G9bYkZBwHEFswOiA
+128,Jax Barber,Seattle,2,5,_jdw71G9bYkZBwHEFswOiA
+129,Pioneer Barber Company,Seattle,2,5,HA5Kld-u4ec6gvUrPiFYwA
+130,Pioneer Barber Company,Seattle,2,5,HA5Kld-u4ec6gvUrPiFYwA
+131,Pioneer Barber Company,Seattle,2,5,HA5Kld-u4ec6gvUrPiFYwA
+132,Sal's Barbershop,Seattle,2,5,AoMHJqyhS84UBPZw4zCO8Q
+133,Sal's Barbershop,Seattle,2,5,AoMHJqyhS84UBPZw4zCO8Q
+134,Sal's Barbershop,Seattle,2,5,AoMHJqyhS84UBPZw4zCO8Q
+135,Bostonian Barber Shop,Seattle,1,5,ijLqPM4lP2aiLCyNmhpP_Q
+136,Bostonian Barber Shop,Seattle,1,3,ijLqPM4lP2aiLCyNmhpP_Q
+137,Bostonian Barber Shop,Seattle,1,5,ijLqPM4lP2aiLCyNmhpP_Q
+138,Colman Building Barbershop,Seattle,2,5,lKhIihDsxFQeYw0DbqiQvQ
+139,Colman Building Barbershop,Seattle,2,5,lKhIihDsxFQeYw0DbqiQvQ
+140,Colman Building Barbershop,Seattle,2,5,lKhIihDsxFQeYw0DbqiQvQ
+141,t.brooks quality cuts,Seattle,2,5,wLGkkm7X9ORcG7qG98j_Yw
+142,t.brooks quality cuts,Seattle,2,3,wLGkkm7X9ORcG7qG98j_Yw
+143,t.brooks quality cuts,Seattle,2,1,wLGkkm7X9ORcG7qG98j_Yw
+144,Kim Hair Salon,Seattle,1,4,CxTz_Z7EpJ-ffh0PHwkkyQ
+145,Kim Hair Salon,Seattle,1,5,CxTz_Z7EpJ-ffh0PHwkkyQ
+146,Kim Hair Salon,Seattle,1,5,CxTz_Z7EpJ-ffh0PHwkkyQ
+147,5th Avenue Barber & Salon,Seattle,2,5,yuOHBCDTLhPsVK1nlW1UEw
+148,5th Avenue Barber & Salon,Seattle,2,5,yuOHBCDTLhPsVK1nlW1UEw
+149,5th Avenue Barber & Salon,Seattle,2,5,yuOHBCDTLhPsVK1nlW1UEw
+150,Mint Hair Studio,Seattle,2,5,ul8S-v1rqu2zwXSnMRG8HA
+151,Mint Hair Studio,Seattle,2,5,ul8S-v1rqu2zwXSnMRG8HA
+152,Mint Hair Studio,Seattle,2,5,ul8S-v1rqu2zwXSnMRG8HA
+153,Red Chair Salon,Seattle,1,5,UAqHNgwxYr2g5nb7RMTM6Q
+154,Red Chair Salon,Seattle,1,1,UAqHNgwxYr2g5nb7RMTM6Q
+155,Red Chair Salon,Seattle,1,5,UAqHNgwxYr2g5nb7RMTM6Q
+156,Lotte Hair Salon,Seattle,2,5,bJwFQg-xuk6nBY1xrrmlJA
+157,Lotte Hair Salon,Seattle,2,5,bJwFQg-xuk6nBY1xrrmlJA
+158,Lotte Hair Salon,Seattle,2,5,bJwFQg-xuk6nBY1xrrmlJA
+159,EZ Chair Barbershop,Seattle,2,5,aZWhj_DdmMgUAeb_-wvgzg
+160,EZ Chair Barbershop,Seattle,2,5,aZWhj_DdmMgUAeb_-wvgzg
+161,EZ Chair Barbershop,Seattle,2,1,aZWhj_DdmMgUAeb_-wvgzg
+162,Rudy's Barbershop,Seattle,2,5,pcTL8KmqlVubMT1Mowc6PQ
+163,Rudy's Barbershop,Seattle,2,2,pcTL8KmqlVubMT1Mowc6PQ
+164,Rudy's Barbershop,Seattle,2,1,pcTL8KmqlVubMT1Mowc6PQ
+165,Scream,Seattle,1,5,NtFO_W2etmZOWphwjKjVsg
+166,Scream,Seattle,1,4,NtFO_W2etmZOWphwjKjVsg
+167,Scream,Seattle,1,2,NtFO_W2etmZOWphwjKjVsg
+168,Rudy's Barbershop,Seattle,2,4,3BSAh4PT6eiKYEYrzY-ZOg
+169,Rudy's Barbershop,Seattle,2,5,3BSAh4PT6eiKYEYrzY-ZOg
+170,Rudy's Barbershop,Seattle,2,5,3BSAh4PT6eiKYEYrzY-ZOg
+171,The Shop,Seattle,2,4,mQIrSrSt9ymaN70T7YuIwA
+172,The Shop,Seattle,2,5,mQIrSrSt9ymaN70T7YuIwA
+173,The Shop,Seattle,2,5,mQIrSrSt9ymaN70T7YuIwA
+174,Rudy's Barbershop,Seattle,2,5,E1_svh9AzG6IbDw7_Y4sKw
+175,Rudy's Barbershop,Seattle,2,1,E1_svh9AzG6IbDw7_Y4sKw
+176,Rudy's Barbershop,Seattle,2,2,E1_svh9AzG6IbDw7_Y4sKw
+177,Salon Swagger,Seattle,2,5,flIwAZirQuq87ifDiXztqw
+178,Salon Swagger,Seattle,2,5,flIwAZirQuq87ifDiXztqw
+179,Salon Swagger,Seattle,2,5,flIwAZirQuq87ifDiXztqw
+180,Tracy's Hair Studio,Seattle,1,5,dOnpXArgPUZX4_X8U-M0hQ
+181,Tracy's Hair Studio,Seattle,1,4,dOnpXArgPUZX4_X8U-M0hQ
+182,Tracy's Hair Studio,Seattle,1,5,dOnpXArgPUZX4_X8U-M0hQ
+183,J's Salon,Seattle,1,5,MyiFpaxgdvjGLuX7nxf4gw
+184,J's Salon,Seattle,1,5,MyiFpaxgdvjGLuX7nxf4gw
+185,J's Salon,Seattle,1,5,MyiFpaxgdvjGLuX7nxf4gw
+186,Auda's Barber Shop,Seattle,1,5,5SHhXmMhZK76xDqq7-6-Sw
+187,Auda's Barber Shop,Seattle,1,4,5SHhXmMhZK76xDqq7-6-Sw
+188,Auda's Barber Shop,Seattle,1,5,5SHhXmMhZK76xDqq7-6-Sw
+189,The Kingdom Barbershop,Seattle,1,5,8nVeCo91RcKPQCX9KSUDeQ
+190,The Kingdom Barbershop,Seattle,1,1,8nVeCo91RcKPQCX9KSUDeQ
+191,The Kingdom Barbershop,Seattle,1,1,8nVeCo91RcKPQCX9KSUDeQ
+192,Westside Barber Shop,Seattle,2,5,6q5sIhV9oXYpeFRwnypRVA
+193,Westside Barber Shop,Seattle,2,5,6q5sIhV9oXYpeFRwnypRVA
+194,Westside Barber Shop,Seattle,2,5,6q5sIhV9oXYpeFRwnypRVA
+195,The Shop,Seattle,1,5,sc3p7pgKT3sovWeqOqaERA
+196,The Shop,Seattle,1,4,sc3p7pgKT3sovWeqOqaERA
+197,The Shop,Seattle,1,5,sc3p7pgKT3sovWeqOqaERA
+198,Jordan Salon - The Professional Man's Barber,Seattle,3,5,dM69c8sTK0jbeSa2ezmOKw
+199,Jordan Salon - The Professional Man's Barber,Seattle,3,5,dM69c8sTK0jbeSa2ezmOKw
+200,Jordan Salon - The Professional Man's Barber,Seattle,3,1,dM69c8sTK0jbeSa2ezmOKw
+201,Uptown Barbershop,Seattle,2,5,zDVxAKgVYSCzRXfBNrV30w
+202,Uptown Barbershop,Seattle,2,5,zDVxAKgVYSCzRXfBNrV30w
+203,Uptown Barbershop,Seattle,2,5,zDVxAKgVYSCzRXfBNrV30w
+204,Great Clips,Seattle,1,5,9aod2AMoybDTM8kmh0VnMg
+205,Great Clips,Seattle,1,2,9aod2AMoybDTM8kmh0VnMg
+206,Great Clips,Seattle,1,1,9aod2AMoybDTM8kmh0VnMg
+207,Roosters Men's Grooming Center,Seattle,2,5,xGr_JRBfx2ZbVcH5o3XyDw
+208,Roosters Men's Grooming Center,Seattle,2,1,xGr_JRBfx2ZbVcH5o3XyDw
+209,Roosters Men's Grooming Center,Seattle,2,5,xGr_JRBfx2ZbVcH5o3XyDw
+210,Hair Gallery Salon,Seattle,1,5,K8cP6ODkzlt2cwHBNLhpiA
+211,Hair Gallery Salon,Seattle,1,5,K8cP6ODkzlt2cwHBNLhpiA
+212,Hair Gallery Salon,Seattle,1,5,K8cP6ODkzlt2cwHBNLhpiA
+213,Muses,Seattle,2,5,XxtBBzxMke3Gi6ezg3H2Eg
+214,Muses,Seattle,2,1,XxtBBzxMke3Gi6ezg3H2Eg
+215,Muses,Seattle,2,1,XxtBBzxMke3Gi6ezg3H2Eg
+216,Details Barbershop,Seattle,1,5,g8gh_vwuYhFDqV2Osp_8Xw
+217,Details Barbershop,Seattle,1,5,g8gh_vwuYhFDqV2Osp_8Xw
+218,Details Barbershop,Seattle,1,5,g8gh_vwuYhFDqV2Osp_8Xw
+219,NorthTowne Barber Shop,Seattle,2,5,ivt86ykHwWqR2JG2S_sFEQ
+220,NorthTowne Barber Shop,Seattle,2,5,ivt86ykHwWqR2JG2S_sFEQ
+221,NorthTowne Barber Shop,Seattle,2,1,ivt86ykHwWqR2JG2S_sFEQ
+222,Joel Perez Barber Shop,Seattle,2,5,u8i5WNB8uIaHyaKBn4qEdA
+223,Joel Perez Barber Shop,Seattle,2,5,u8i5WNB8uIaHyaKBn4qEdA
+224,Joel Perez Barber Shop,Seattle,2,5,u8i5WNB8uIaHyaKBn4qEdA
+225,New York Barber Cuts,Seattle,1,5,sEDxGwkVT2fY52eGniUxEg
+226,New York Barber Cuts,Seattle,1,1,sEDxGwkVT2fY52eGniUxEg
+227,New York Barber Cuts,Seattle,1,2,sEDxGwkVT2fY52eGniUxEg
+228,Cedar River Barbershop,Seattle,1,5,vSeo79oLn2hTrYhjjL3Kyw
+229,Cedar River Barbershop,Seattle,1,2,vSeo79oLn2hTrYhjjL3Kyw
+230,Cedar River Barbershop,Seattle,1,2,vSeo79oLn2hTrYhjjL3Kyw
+231,The Baseball Barber Shop,Seattle,2,5,l6uNREvd4nzE2cUqpZ1SLw
+232,The Baseball Barber Shop,Seattle,2,5,l6uNREvd4nzE2cUqpZ1SLw
+233,The Baseball Barber Shop,Seattle,2,5,l6uNREvd4nzE2cUqpZ1SLw
+234,Capelli's Gentlemen's Barbershop,Seattle,2,5,Ke3SvYUD6i-AYtqZIrpOZw
+235,Capelli's Gentlemen's Barbershop,Seattle,2,1,Ke3SvYUD6i-AYtqZIrpOZw
+236,Capelli's Gentlemen's Barbershop,Seattle,2,5,Ke3SvYUD6i-AYtqZIrpOZw
+237,Central Barber Shop,Seattle,2,5,NYHYJxqqW_VYOEgkjvIiRQ
+238,Central Barber Shop,Seattle,2,5,NYHYJxqqW_VYOEgkjvIiRQ
+239,Central Barber Shop,Seattle,2,5,NYHYJxqqW_VYOEgkjvIiRQ
+240,Belltown Barber,Seattle,2,5,alZsy8mC5Q2Ixph3OaXd2A
+241,Belltown Barber,Seattle,2,5,alZsy8mC5Q2Ixph3OaXd2A
+242,Belltown Barber,Seattle,2,5,alZsy8mC5Q2Ixph3OaXd2A
+243,Wedgwood Barber Shop,Seattle,1,5,5fX9IC0SYx6oivxms2yKfQ
+244,Wedgwood Barber Shop,Seattle,1,1,5fX9IC0SYx6oivxms2yKfQ
+245,Wedgwood Barber Shop,Seattle,1,5,5fX9IC0SYx6oivxms2yKfQ
+246,Klean Kutz,Seattle,2,5,UYa2q5_GKc4kMKXDfu5rwA
+247,Klean Kutz,Seattle,2,5,UYa2q5_GKc4kMKXDfu5rwA
+248,Klean Kutz,Seattle,2,5,UYa2q5_GKc4kMKXDfu5rwA
+249,Fine Cuts,Seattle,2,5,l84TTOJRIKlyRbr02VC-Nw
+250,Fine Cuts,Seattle,2,5,l84TTOJRIKlyRbr02VC-Nw
+251,Fine Cuts,Seattle,2,5,l84TTOJRIKlyRbr02VC-Nw
+252,Simone David Barbershop,Seattle,2,5,GP7ZKjJb7ErjFtb-DMEttA
+253,Simone David Barbershop,Seattle,2,5,GP7ZKjJb7ErjFtb-DMEttA
+254,Simone David Barbershop,Seattle,2,1,GP7ZKjJb7ErjFtb-DMEttA
+255,Hill's Barbershop,Seattle,2,5,gaoazNyRTazSb1n8wIhtaw
+256,Hill's Barbershop,Seattle,2,5,gaoazNyRTazSb1n8wIhtaw
+257,Hill's Barbershop,Seattle,2,3,gaoazNyRTazSb1n8wIhtaw
+258,Adi Chen,Seattle,2,5,qc-j67MDsx7fvg5fV2emqQ
+259,Adi Chen,Seattle,2,5,qc-j67MDsx7fvg5fV2emqQ
+260,Adi Chen,Seattle,2,5,qc-j67MDsx7fvg5fV2emqQ
+261,The Art of Shaving,Seattle,3,5,XkB0Fy6-pImg3LeZJy9Nqw
+262,The Art of Shaving,Seattle,3,1,XkB0Fy6-pImg3LeZJy9Nqw
+263,The Art of Shaving,Seattle,3,1,XkB0Fy6-pImg3LeZJy9Nqw
+264,J Styles Barber Shop,Seattle,2,5,cIa0Yj7L398O9jTXgJ0Vsg
+265,J Styles Barber Shop,Seattle,2,5,cIa0Yj7L398O9jTXgJ0Vsg
+266,J Styles Barber Shop,Seattle,2,1,cIa0Yj7L398O9jTXgJ0Vsg
+267,Men's Hair Studio,Seattle,2,5,uB45yN_ck69E4MHPvPdk_g
+268,Men's Hair Studio,Seattle,2,5,uB45yN_ck69E4MHPvPdk_g
+269,Men's Hair Studio,Seattle,2,5,uB45yN_ck69E4MHPvPdk_g
+270,Magnolia Village Barber Shop,Seattle,1,4,qdCCsGhQ0tj-BExVTruf5Q
+271,Magnolia Village Barber Shop,Seattle,1,5,qdCCsGhQ0tj-BExVTruf5Q
+272,Magnolia Village Barber Shop,Seattle,1,4,qdCCsGhQ0tj-BExVTruf5Q
+273,Bayside Barber Shop,Seattle,1,5,VH6CQWwikOU6tZBFOmYjlQ
+274,Bayside Barber Shop,Seattle,1,5,VH6CQWwikOU6tZBFOmYjlQ
+275,Bayside Barber Shop,Seattle,1,5,VH6CQWwikOU6tZBFOmYjlQ
+276,Shepherd Barbering,Seattle,2,5,NPHs6BQecaTYeluaLfHAag
+277,Shepherd Barbering,Seattle,2,5,NPHs6BQecaTYeluaLfHAag
+278,Shepherd Barbering,Seattle,2,5,NPHs6BQecaTYeluaLfHAag
+279,Barber Lounge by ConSele,Seattle,2,5,A4Z0zeao43YHQ_RO6DwQ3Q
+280,Barber Lounge by ConSele,Seattle,2,5,A4Z0zeao43YHQ_RO6DwQ3Q
+281,Barber Lounge by ConSele,Seattle,2,5,A4Z0zeao43YHQ_RO6DwQ3Q
+282,Stewart Street Barbers,Seattle,2,1,TBsvccsDjlNx_1I8143oeQ
+283,Stewart Street Barbers,Seattle,2,1,TBsvccsDjlNx_1I8143oeQ
+284,Stewart Street Barbers,Seattle,2,5,TBsvccsDjlNx_1I8143oeQ
+285,Capelli's Gentlemen's Barbershop,Seattle,3,5,EJPyjomFPRatS15rCO0qFw
+286,Capelli's Gentlemen's Barbershop,Seattle,3,5,EJPyjomFPRatS15rCO0qFw
+287,Capelli's Gentlemen's Barbershop,Seattle,3,5,EJPyjomFPRatS15rCO0qFw
+288,Tony's Barber Shop,Seattle,2,5,BsFjeqPnTBXYAkKCqZQXbA
+289,Tony's Barber Shop,Seattle,2,5,BsFjeqPnTBXYAkKCqZQXbA
+290,Tony's Barber Shop,Seattle,2,5,BsFjeqPnTBXYAkKCqZQXbA
+291,Potter The Barber,Seattle,2,5,4TbK-p7ONaRn53Bt1Uh0tQ
+292,Potter The Barber,Seattle,2,5,4TbK-p7ONaRn53Bt1Uh0tQ
+293,Potter The Barber,Seattle,2,5,4TbK-p7ONaRn53Bt1Uh0tQ
+294,Fishermen's Terminal Barber Shop,Seattle,1,5,HysqBumb31cDFds_-IYKhg
+295,Fishermen's Terminal Barber Shop,Seattle,1,5,HysqBumb31cDFds_-IYKhg
+296,Fishermen's Terminal Barber Shop,Seattle,1,5,HysqBumb31cDFds_-IYKhg
+297,Laurelhurst Barbershop,Seattle,1,4,yMY8deOqH4HqU2p8A07YSg
+298,Laurelhurst Barbershop,Seattle,1,5,yMY8deOqH4HqU2p8A07YSg
+299,Laurelhurst Barbershop,Seattle,1,5,yMY8deOqH4HqU2p8A07YSg
+300,Twisted Scissors,Chicago,2,5,8VQCLmth4y9l4v9CJDzH0g
+301,Twisted Scissors,Chicago,2,5,8VQCLmth4y9l4v9CJDzH0g
+302,Twisted Scissors,Chicago,2,2,8VQCLmth4y9l4v9CJDzH0g
+303,HeadQuarter Salon,Chicago,2,5,TotRsMNqKOdxdJap4DWSkQ
+304,HeadQuarter Salon,Chicago,2,5,TotRsMNqKOdxdJap4DWSkQ
+305,HeadQuarter Salon,Chicago,2,3,TotRsMNqKOdxdJap4DWSkQ
+306,Art + Science,Chicago,2,5,QlcR3dRwm6m_I3Kh0Yj8ZA
+307,Art + Science,Chicago,2,5,QlcR3dRwm6m_I3Kh0Yj8ZA
+308,Art + Science,Chicago,2,5,QlcR3dRwm6m_I3Kh0Yj8ZA
+309,Barbara&Barbara,Chicago,1,5,Yk8ij9nL3lBzGbSS8fJVXA
+310,Barbara&Barbara,Chicago,1,1,Yk8ij9nL3lBzGbSS8fJVXA
+311,Barbara&Barbara,Chicago,1,5,Yk8ij9nL3lBzGbSS8fJVXA
+312,The Belmont Barbershop,Chicago,1,5,a9OllxgFGLDvPkKrGqiTuQ
+313,The Belmont Barbershop,Chicago,1,4,a9OllxgFGLDvPkKrGqiTuQ
+314,The Belmont Barbershop,Chicago,1,5,a9OllxgFGLDvPkKrGqiTuQ
+315,Floyd's 99 Barbershop,Chicago,2,5,G7i_5XDp64aNqgUVDioINA
+316,Floyd's 99 Barbershop,Chicago,2,1,G7i_5XDp64aNqgUVDioINA
+317,Floyd's 99 Barbershop,Chicago,2,5,G7i_5XDp64aNqgUVDioINA
+318,Floyd's 99 Barbershop,Chicago,2,5,zeAPCuiEOhIS25cHsvzt_Q
+319,Floyd's 99 Barbershop,Chicago,2,1,zeAPCuiEOhIS25cHsvzt_Q
+320,Floyd's 99 Barbershop,Chicago,2,5,zeAPCuiEOhIS25cHsvzt_Q
+321,Joe's Barbershop Chicago,Chicago,1,5,ExLfiwWkQeDpzxp-H0Y6PQ
+322,Joe's Barbershop Chicago,Chicago,1,5,ExLfiwWkQeDpzxp-H0Y6PQ
+323,Joe's Barbershop Chicago,Chicago,1,4,ExLfiwWkQeDpzxp-H0Y6PQ
+324,Floyd's 99 Barbershop,Chicago,2,5,UK8-309AJgZomxw22EEA2A
+325,Floyd's 99 Barbershop,Chicago,2,2,UK8-309AJgZomxw22EEA2A
+326,Floyd's 99 Barbershop,Chicago,2,5,UK8-309AJgZomxw22EEA2A
+327,Gabby's Barber Shop,Chicago,1,5,H5yh8kBeKIyC0RwNy4EblQ
+328,Gabby's Barber Shop,Chicago,1,5,H5yh8kBeKIyC0RwNy4EblQ
+329,Gabby's Barber Shop,Chicago,1,5,H5yh8kBeKIyC0RwNy4EblQ
+330,Funk's Barbershop,Chicago,2,5,P33C2fWtQ41X1DBMyWHGaA
+331,Funk's Barbershop,Chicago,2,5,P33C2fWtQ41X1DBMyWHGaA
+332,Funk's Barbershop,Chicago,2,5,P33C2fWtQ41X1DBMyWHGaA
+333,Van Buren Gentlemen's Salon,Chicago,2,5,e6RAVw51783C8G3sm4lTqw
+334,Van Buren Gentlemen's Salon,Chicago,2,1,e6RAVw51783C8G3sm4lTqw
+335,Van Buren Gentlemen's Salon,Chicago,2,5,e6RAVw51783C8G3sm4lTqw
+336,Pete's Barber Shop,Chicago,2,5,GIsXAJtNBnLJhh3jShTqeA
+337,Pete's Barber Shop,Chicago,2,5,GIsXAJtNBnLJhh3jShTqeA
+338,Pete's Barber Shop,Chicago,2,5,GIsXAJtNBnLJhh3jShTqeA
+339,Kenny Mac's Barbershop,Chicago,2,5,SL6uYmVrbWG7cy-QiE2rVQ
+340,Kenny Mac's Barbershop,Chicago,2,1,SL6uYmVrbWG7cy-QiE2rVQ
+341,Kenny Mac's Barbershop,Chicago,2,5,SL6uYmVrbWG7cy-QiE2rVQ
+342,Old Town Barbershop,Chicago,2,5,6O8sNmq2sn0MgsW2MdpKSA
+343,Old Town Barbershop,Chicago,2,4,6O8sNmq2sn0MgsW2MdpKSA
+344,Old Town Barbershop,Chicago,2,5,6O8sNmq2sn0MgsW2MdpKSA
+345,Tailor Barber Co.,Chicago,2,5,U_lEzIk-q9lX9xAY-qYBFw
+346,Tailor Barber Co.,Chicago,2,5,U_lEzIk-q9lX9xAY-qYBFw
+347,Tailor Barber Co.,Chicago,2,3,U_lEzIk-q9lX9xAY-qYBFw
+348,Floyd's 99 Barbershop,Chicago,2,5,s4omkNBCoZt9oDsWqkfJDg
+349,Floyd's 99 Barbershop,Chicago,2,1,s4omkNBCoZt9oDsWqkfJDg
+350,Floyd's 99 Barbershop,Chicago,2,5,s4omkNBCoZt9oDsWqkfJDg
+351,Slade's Barbershop,Chicago,1,5,bMc_ah3uamNPCqiVDY9IQw
+352,Slade's Barbershop,Chicago,1,5,bMc_ah3uamNPCqiVDY9IQw
+353,Slade's Barbershop,Chicago,1,5,bMc_ah3uamNPCqiVDY9IQw
+354,Chicago Male Salon,Chicago,2,5,5s0y0SgRiVd7YErAoVpNpA
+355,Chicago Male Salon,Chicago,2,4,5s0y0SgRiVd7YErAoVpNpA
+356,Chicago Male Salon,Chicago,2,5,5s0y0SgRiVd7YErAoVpNpA
+357,Floyd's 99 Barbershop,Chicago,2,5,FdQDVKeDpOkyJkJY-zAleQ
+358,Floyd's 99 Barbershop,Chicago,2,5,FdQDVKeDpOkyJkJY-zAleQ
+359,Floyd's 99 Barbershop,Chicago,2,1,FdQDVKeDpOkyJkJY-zAleQ
+360,Irving Park Barbershop,Chicago,2,5,JxIaStSUV8kydBfq1KS2BQ
+361,Irving Park Barbershop,Chicago,2,5,JxIaStSUV8kydBfq1KS2BQ
+362,Irving Park Barbershop,Chicago,2,5,JxIaStSUV8kydBfq1KS2BQ
+363,Esquire Barbershop,Chicago,1,5,sjmOvzGMu4dqdeg8lHFn2Q
+364,Esquire Barbershop,Chicago,1,5,sjmOvzGMu4dqdeg8lHFn2Q
+365,Esquire Barbershop,Chicago,1,5,sjmOvzGMu4dqdeg8lHFn2Q
+366,Metropolitan Barber Shop,Chicago,2,5,5wxhojVIFtOfTS7TOBrQLA
+367,Metropolitan Barber Shop,Chicago,2,1,5wxhojVIFtOfTS7TOBrQLA
+368,Metropolitan Barber Shop,Chicago,2,1,5wxhojVIFtOfTS7TOBrQLA
+369,Lincoln Square Barber Shop,Chicago,2,5,FWlxd_2yQp4l58wMiOK_MQ
+370,Lincoln Square Barber Shop,Chicago,2,1,FWlxd_2yQp4l58wMiOK_MQ
+371,Lincoln Square Barber Shop,Chicago,2,5,FWlxd_2yQp4l58wMiOK_MQ
+372,Blind Barber,Chicago,2,4,TZDBetXKtKw3Zlyr695Lnw
+373,Blind Barber,Chicago,2,1,TZDBetXKtKw3Zlyr695Lnw
+374,Blind Barber,Chicago,2,1,TZDBetXKtKw3Zlyr695Lnw
+375,Barkers Barbershop,Chicago,2,5,rMQoJiIPSPdB0_epK2V4ug
+376,Barkers Barbershop,Chicago,2,2,rMQoJiIPSPdB0_epK2V4ug
+377,Barkers Barbershop,Chicago,2,5,rMQoJiIPSPdB0_epK2V4ug
+378,State Street Barbers,Chicago,2,5,3O5uKkSONtvG-UpDJyeYSA
+379,State Street Barbers,Chicago,2,2,3O5uKkSONtvG-UpDJyeYSA
+380,State Street Barbers,Chicago,2,2,3O5uKkSONtvG-UpDJyeYSA
+381,iMALE Salon For Men,Chicago,4,5,P53vgPR5SZM1yHMllYS3cQ
+382,iMALE Salon For Men,Chicago,4,2,P53vgPR5SZM1yHMllYS3cQ
+383,iMALE Salon For Men,Chicago,4,5,P53vgPR5SZM1yHMllYS3cQ
+384,Headrest Barbershop,Chicago,2,5,-QYJe2k7rr_EkAAHQvME6A
+385,Headrest Barbershop,Chicago,2,2,-QYJe2k7rr_EkAAHQvME6A
+386,Headrest Barbershop,Chicago,2,5,-QYJe2k7rr_EkAAHQvME6A
+387,Floyd's 99 Barbershop,Chicago,2,5,dPcJOijiYnekUQV3pIRQxw
+388,Floyd's 99 Barbershop,Chicago,2,5,dPcJOijiYnekUQV3pIRQxw
+389,Floyd's 99 Barbershop,Chicago,2,1,dPcJOijiYnekUQV3pIRQxw
+390,Chicago Barbershop,Chicago,1,5,Ky--kBNn04EblE-nbufbig
+391,Chicago Barbershop,Chicago,1,1,Ky--kBNn04EblE-nbufbig
+392,Chicago Barbershop,Chicago,1,5,Ky--kBNn04EblE-nbufbig
+393,Bespoke Men's Grooming,Chicago,2,5,IihoLZHo3Fgq52EMcACvuQ
+394,Bespoke Men's Grooming,Chicago,2,5,IihoLZHo3Fgq52EMcACvuQ
+395,Bespoke Men's Grooming,Chicago,2,5,IihoLZHo3Fgq52EMcACvuQ
+396,Ruben's Unisex,Chicago,2,5,P0Tvpk68W05zuVWrypWDRA
+397,Ruben's Unisex,Chicago,2,5,P0Tvpk68W05zuVWrypWDRA
+398,Ruben's Unisex,Chicago,2,5,P0Tvpk68W05zuVWrypWDRA
+399,Mr. Barber Of Chicago,Chicago,2,5,M0GpTadyJSnnMeRhgZqxig
+400,Mr. Barber Of Chicago,Chicago,2,5,M0GpTadyJSnnMeRhgZqxig
+401,Mr. Barber Of Chicago,Chicago,2,5,M0GpTadyJSnnMeRhgZqxig
+402,Maestroshave Barbershop,Chicago,2,5,8IsjlvL4Ayz9VXCp--OsyQ
+403,Maestroshave Barbershop,Chicago,2,5,8IsjlvL4Ayz9VXCp--OsyQ
+404,Maestroshave Barbershop,Chicago,2,1,8IsjlvL4Ayz9VXCp--OsyQ
+405,The Corner Barber Shop,Chicago,1,5,_-Gz2Ig8xD8wiUWprQRVgQ
+406,The Corner Barber Shop,Chicago,1,1,_-Gz2Ig8xD8wiUWprQRVgQ
+407,The Corner Barber Shop,Chicago,1,1,_-Gz2Ig8xD8wiUWprQRVgQ
+408,Chicago's Best Barber Shop,Chicago,2,5,i2Ufl5K4vwIei2zcFN4sAw
+409,Chicago's Best Barber Shop,Chicago,2,1,i2Ufl5K4vwIei2zcFN4sAw
+410,Chicago's Best Barber Shop,Chicago,2,5,i2Ufl5K4vwIei2zcFN4sAw
+411,Mario's Barber Shop,Chicago,2,5,jCBNojCw_H4if0lhAnzYMg
+412,Mario's Barber Shop,Chicago,2,4,jCBNojCw_H4if0lhAnzYMg
+413,Mario's Barber Shop,Chicago,2,1,jCBNojCw_H4if0lhAnzYMg
+414,Handcrafted Barbershop,Chicago,1,5,qmyS5bK2Rgs11fqyxEp92w
+415,Handcrafted Barbershop,Chicago,1,5,qmyS5bK2Rgs11fqyxEp92w
+416,Handcrafted Barbershop,Chicago,1,5,qmyS5bK2Rgs11fqyxEp92w
+417,New Barbershop,Chicago,2,5,y7qxMKZhhzUheTmmDeoL5Q
+418,New Barbershop,Chicago,2,1,y7qxMKZhhzUheTmmDeoL5Q
+419,New Barbershop,Chicago,2,1,y7qxMKZhhzUheTmmDeoL5Q
+420,Steve Duroseau - The Exec Room,Chicago,2,5,lgU1uu3PVZl8km66VMthvw
+421,Steve Duroseau - The Exec Room,Chicago,2,5,lgU1uu3PVZl8km66VMthvw
+422,Steve Duroseau - The Exec Room,Chicago,2,5,lgU1uu3PVZl8km66VMthvw
+423,Andre's Barber Shop,Chicago,1,5,ZGucd7wNJOhMf3XbQYCAoA
+424,Andre's Barber Shop,Chicago,1,4,ZGucd7wNJOhMf3XbQYCAoA
+425,Andre's Barber Shop,Chicago,1,5,ZGucd7wNJOhMf3XbQYCAoA
+426,Denmark College Salon,Chicago,1,5,64OV1hQ46XWDflVOPWhUrQ
+427,Denmark College Salon,Chicago,1,4,64OV1hQ46XWDflVOPWhUrQ
+428,Denmark College Salon,Chicago,1,5,64OV1hQ46XWDflVOPWhUrQ
+429,Hair Mechanic,Chicago,2,5,_NpJZ0q8KVI-d2YLL_VpCA
+430,Hair Mechanic,Chicago,2,5,_NpJZ0q8KVI-d2YLL_VpCA
+431,Hair Mechanic,Chicago,2,5,_NpJZ0q8KVI-d2YLL_VpCA
+432,Grooming Lounge Chicago,Chicago,2,5,S90u37TMl4l44lHMHM-UAQ
+433,Grooming Lounge Chicago,Chicago,2,1,S90u37TMl4l44lHMHM-UAQ
+434,Grooming Lounge Chicago,Chicago,2,1,S90u37TMl4l44lHMHM-UAQ
+435,Jerry's Barber Shop,Chicago,1,5,8e96Ye5_LHrdA1ymOankPQ
+436,Jerry's Barber Shop,Chicago,1,2,8e96Ye5_LHrdA1ymOankPQ
+437,Jerry's Barber Shop,Chicago,1,5,8e96Ye5_LHrdA1ymOankPQ
+438,Victor's Barber Shop & Beauty Salon,Chicago,1,5,YEPsa7vB1DSArnglG3LBjw
+439,Victor's Barber Shop & Beauty Salon,Chicago,1,3,YEPsa7vB1DSArnglG3LBjw
+440,Victor's Barber Shop & Beauty Salon,Chicago,1,5,YEPsa7vB1DSArnglG3LBjw
+441,Joe's Hair Studio,Chicago,2,5,l7gjVN0drhPvrpi0H7GxSw
+442,Joe's Hair Studio,Chicago,2,5,l7gjVN0drhPvrpi0H7GxSw
+443,Joe's Hair Studio,Chicago,2,5,l7gjVN0drhPvrpi0H7GxSw
+444,Truefitt & Hill,Chicago,2,5,3_bJ2z6jHzgUMls-Y6dj-A
+445,Truefitt & Hill,Chicago,2,1,3_bJ2z6jHzgUMls-Y6dj-A
+446,Truefitt & Hill,Chicago,2,1,3_bJ2z6jHzgUMls-Y6dj-A
+447,Rockstar Barbershop,Chicago,2,5,tN4iEW6ZXNYZzX8gA-AR2A
+448,Rockstar Barbershop,Chicago,2,5,tN4iEW6ZXNYZzX8gA-AR2A
+449,Rockstar Barbershop,Chicago,2,5,tN4iEW6ZXNYZzX8gA-AR2A
+450,Solo Salon - Elizabeth,Chicago,2,5,nmdivd0xq5BHwxFd7bt_wA
+451,Solo Salon - Elizabeth,Chicago,2,5,nmdivd0xq5BHwxFd7bt_wA
+452,Solo Salon - Elizabeth,Chicago,2,5,nmdivd0xq5BHwxFd7bt_wA
+453,B Square Salon,Chicago,1,5,Fs8LLOWNSIMhVd2HBy3rHw
+454,B Square Salon,Chicago,1,5,Fs8LLOWNSIMhVd2HBy3rHw
+455,B Square Salon,Chicago,1,1,Fs8LLOWNSIMhVd2HBy3rHw
+456,Originals Hair Designers & Spa,Chicago,2,5,K1oPjrLkWMxYNDNR-Zh7IQ
+457,Originals Hair Designers & Spa,Chicago,2,2,K1oPjrLkWMxYNDNR-Zh7IQ
+458,Originals Hair Designers & Spa,Chicago,2,5,K1oPjrLkWMxYNDNR-Zh7IQ
+459,Floyd's 99 Barbershop,Chicago,2,5,FrwWQTABq1-ScyZVcbTrGA
+460,Floyd's 99 Barbershop,Chicago,2,4,FrwWQTABq1-ScyZVcbTrGA
+461,Floyd's 99 Barbershop,Chicago,2,1,FrwWQTABq1-ScyZVcbTrGA
+462,Civic Opera Barber Shop,Chicago,2,5,lL2kYjwTjs7m3QH3sUaCKg
+463,Civic Opera Barber Shop,Chicago,2,5,lL2kYjwTjs7m3QH3sUaCKg
+464,Civic Opera Barber Shop,Chicago,2,5,lL2kYjwTjs7m3QH3sUaCKg
+465,Philip D'Ciminna Barber Shop,Chicago,1,5,FybqNCHWGhvc3s4i4jUh7g
+466,Philip D'Ciminna Barber Shop,Chicago,1,5,FybqNCHWGhvc3s4i4jUh7g
+467,Philip D'Ciminna Barber Shop,Chicago,1,5,FybqNCHWGhvc3s4i4jUh7g
+468,The Public Barber,Chicago,2,5,vWzukk7-fiYAD227Ax5qGA
+469,The Public Barber,Chicago,2,5,vWzukk7-fiYAD227Ax5qGA
+470,The Public Barber,Chicago,2,5,vWzukk7-fiYAD227Ax5qGA
+471,Sport Clips Haircuts of Chicago - Diversey,Chicago,2,5,OIm2XQwXcajvPFLZWINSaA
+472,Sport Clips Haircuts of Chicago - Diversey,Chicago,2,5,OIm2XQwXcajvPFLZWINSaA
+473,Sport Clips Haircuts of Chicago - Diversey,Chicago,2,5,OIm2XQwXcajvPFLZWINSaA
+474,Cowshed Spa Chicago,Chicago,2,5,aR2kpXNSOQNG0Yb8CysVdQ
+475,Cowshed Spa Chicago,Chicago,2,5,aR2kpXNSOQNG0Yb8CysVdQ
+476,Cowshed Spa Chicago,Chicago,2,5,aR2kpXNSOQNG0Yb8CysVdQ
+477,Jesse's Barbershop,Chicago,2,5,kokKlzxMyRzoDEaXH1crOw
+478,Jesse's Barbershop,Chicago,2,3,kokKlzxMyRzoDEaXH1crOw
+479,Jesse's Barbershop,Chicago,2,5,kokKlzxMyRzoDEaXH1crOw
+480,The Barbers,Chicago,1,5,TAp3r_MQcm1QaEIIkpC-8w
+481,The Barbers,Chicago,1,5,TAp3r_MQcm1QaEIIkpC-8w
+482,The Barbers,Chicago,1,5,TAp3r_MQcm1QaEIIkpC-8w
+483,Urbane Blades,Chicago,1,5,t1eHMVeTRtVXCy0IJX6tQg
+484,Urbane Blades,Chicago,1,5,t1eHMVeTRtVXCy0IJX6tQg
+485,Urbane Blades,Chicago,1,3,t1eHMVeTRtVXCy0IJX6tQg
+486,Dapper Barbershop & Shave Parlor,Chicago,1,5,pA-OuvGDR4sVjIm3JLElMQ
+487,Dapper Barbershop & Shave Parlor,Chicago,1,1,pA-OuvGDR4sVjIm3JLElMQ
+488,Dapper Barbershop & Shave Parlor,Chicago,1,5,pA-OuvGDR4sVjIm3JLElMQ
+489,State Street Barbers,Chicago,1,5,ZaASD9gyLYQh5sNY58HRnQ
+490,State Street Barbers,Chicago,1,1,ZaASD9gyLYQh5sNY58HRnQ
+491,State Street Barbers,Chicago,1,5,ZaASD9gyLYQh5sNY58HRnQ
+492,Halo for Men,Chicago,2,5,PR6svgjQ22Aa4ikMfIBbXg
+493,Halo for Men,Chicago,2,1,PR6svgjQ22Aa4ikMfIBbXg
+494,Halo for Men,Chicago,2,5,PR6svgjQ22Aa4ikMfIBbXg
+495,State Street Barbers,Chicago,1,5,B2jeh3VTQaBU54ce4JSGmw
+496,State Street Barbers,Chicago,1,5,B2jeh3VTQaBU54ce4JSGmw
+497,State Street Barbers,Chicago,1,5,B2jeh3VTQaBU54ce4JSGmw
+498,Sanchez Barber Shop,Chicago,3,5,N138WleF3c0vdF-n906Ung
+499,Sanchez Barber Shop,Chicago,3,5,N138WleF3c0vdF-n906Ung
+500,Sanchez Barber Shop,Chicago,3,4,N138WleF3c0vdF-n906Ung
+501,State Street Barbers,Chicago,2,4,IRwlT-GthliQ1UNNBn5soA
+502,State Street Barbers,Chicago,2,1,IRwlT-GthliQ1UNNBn5soA
+503,State Street Barbers,Chicago,2,5,IRwlT-GthliQ1UNNBn5soA
+504,Sandro's Barber Shop,Chicago,1,5,5IzyLcrKTMU6SL-U6hKJ6Q
+505,Sandro's Barber Shop,Chicago,1,5,5IzyLcrKTMU6SL-U6hKJ6Q
+506,Sandro's Barber Shop,Chicago,1,5,5IzyLcrKTMU6SL-U6hKJ6Q
+507,Jay's Barber Shop,Chicago,2,5,pOpesJTAUXl3rGOwq2Tgrw
+508,Jay's Barber Shop,Chicago,2,1,pOpesJTAUXl3rGOwq2Tgrw
+509,Jay's Barber Shop,Chicago,2,4,pOpesJTAUXl3rGOwq2Tgrw
+510,A Cut Above Barbershop,Chicago,1,5,i9-GSPfeKxk_3eLXxWIwOQ
+511,A Cut Above Barbershop,Chicago,1,5,i9-GSPfeKxk_3eLXxWIwOQ
+512,A Cut Above Barbershop,Chicago,1,5,i9-GSPfeKxk_3eLXxWIwOQ
+513,Fade Inn,Chicago,2,5,p0HY_rmp4XGPYZh4ujsHpg
+514,Fade Inn,Chicago,2,5,p0HY_rmp4XGPYZh4ujsHpg
+515,Fade Inn,Chicago,2,5,p0HY_rmp4XGPYZh4ujsHpg
+516,Portage Gentlemen Shop,Chicago,1,5,n8c2w-c84sLN8J1i0AZhRw
+517,Portage Gentlemen Shop,Chicago,1,1,n8c2w-c84sLN8J1i0AZhRw
+518,Portage Gentlemen Shop,Chicago,1,5,n8c2w-c84sLN8J1i0AZhRw
+519,Hyde Park Hair Salon,Chicago,2,5,7WPJUxMG9VRLmUVcDkV-ig
+520,Hyde Park Hair Salon,Chicago,2,5,7WPJUxMG9VRLmUVcDkV-ig
+521,Hyde Park Hair Salon,Chicago,2,1,7WPJUxMG9VRLmUVcDkV-ig
+522,Johnny Blades,Chicago,2,5,aj3l9kelG3GBcGZVOUgYDg
+523,Johnny Blades,Chicago,2,5,aj3l9kelG3GBcGZVOUgYDg
+524,Johnny Blades,Chicago,2,1,aj3l9kelG3GBcGZVOUgYDg
+525,Church Street Barber Shop,Chicago,1,5,Gc6DaxMFo-GCbCH_qRMOaA
+526,Church Street Barber Shop,Chicago,1,1,Gc6DaxMFo-GCbCH_qRMOaA
+527,Church Street Barber Shop,Chicago,1,5,Gc6DaxMFo-GCbCH_qRMOaA
+528,John Angileri's Barber Shop,Chicago,1,5,ohW_C92qElwWKr54teX2OA
+529,John Angileri's Barber Shop,Chicago,1,5,ohW_C92qElwWKr54teX2OA
+530,John Angileri's Barber Shop,Chicago,1,5,ohW_C92qElwWKr54teX2OA
+531,Alfredo's Barbershop,Chicago,2,5,XFGyfGsLXBURZXPZTktFzw
+532,Alfredo's Barbershop,Chicago,2,1,XFGyfGsLXBURZXPZTktFzw
+533,Alfredo's Barbershop,Chicago,2,5,XFGyfGsLXBURZXPZTktFzw
+534,Yohel's Barbershop,Chicago,2,5,ZtC5drTj6_6XETh-HNNbSw
+535,Yohel's Barbershop,Chicago,2,4,ZtC5drTj6_6XETh-HNNbSw
+536,Yohel's Barbershop,Chicago,2,4,ZtC5drTj6_6XETh-HNNbSw
+537,Broken Roller Hair Shop,Chicago,2,5,ahGEXr8lzUc1K0EwmttT_w
+538,Broken Roller Hair Shop,Chicago,2,5,ahGEXr8lzUc1K0EwmttT_w
+539,Broken Roller Hair Shop,Chicago,2,5,ahGEXr8lzUc1K0EwmttT_w
+540,Bucktown Barber Shop,Chicago,2,5,X3N2TkoP_ZURh8302zTPIA
+541,Bucktown Barber Shop,Chicago,2,1,X3N2TkoP_ZURh8302zTPIA
+542,Bucktown Barber Shop,Chicago,2,5,X3N2TkoP_ZURh8302zTPIA
+543,Modern Gentlemen Salon,Chicago,1,5,Dm59nOSN7xLtRZ_0Q8sX6g
+544,Modern Gentlemen Salon,Chicago,1,5,Dm59nOSN7xLtRZ_0Q8sX6g
+545,Modern Gentlemen Salon,Chicago,1,5,Dm59nOSN7xLtRZ_0Q8sX6g
+546,I'll Cut You,Chicago,2,5,QUfJCP2JxyFfnMOWdr5PkA
+547,I'll Cut You,Chicago,2,5,QUfJCP2JxyFfnMOWdr5PkA
+548,I'll Cut You,Chicago,2,5,QUfJCP2JxyFfnMOWdr5PkA
+549,Lake Street Barbers,Chicago,2,5,3_JvHLRyVwGo_N1ITZoUGw
+550,Lake Street Barbers,Chicago,2,4,3_JvHLRyVwGo_N1ITZoUGw
+551,Lake Street Barbers,Chicago,2,2,3_JvHLRyVwGo_N1ITZoUGw
+552,Gentlemen's Row Barber Shop,Chicago,2,5,yLOFx03H6Y_cBZ4xfNrhUg
+553,Gentlemen's Row Barber Shop,Chicago,2,1,yLOFx03H6Y_cBZ4xfNrhUg
+554,Gentlemen's Row Barber Shop,Chicago,2,5,yLOFx03H6Y_cBZ4xfNrhUg
+555,Fresh Fades Barber Shop,Chicago,2,5,qNxyUTz0kAjktdtAGsD-fA
+556,Fresh Fades Barber Shop,Chicago,2,2,qNxyUTz0kAjktdtAGsD-fA
+557,Fresh Fades Barber Shop,Chicago,2,5,qNxyUTz0kAjktdtAGsD-fA
+558,Executive Barber Studio Two,Chicago,2,5,sOLAfErWtLDPAwXexwkKMA
+559,Executive Barber Studio Two,Chicago,2,5,sOLAfErWtLDPAwXexwkKMA
+560,Executive Barber Studio Two,Chicago,2,1,sOLAfErWtLDPAwXexwkKMA
+561,Great Clips,Chicago,3,5,lM47ll_StR_bfEYuzQq7-A
+562,Great Clips,Chicago,3,2,lM47ll_StR_bfEYuzQq7-A
+563,Great Clips,Chicago,3,1,lM47ll_StR_bfEYuzQq7-A
+564,Mr. Men's Salon,Chicago,2,5,pv9JFBqnUtmpigg0c_kjxA
+565,Mr. Men's Salon,Chicago,2,5,pv9JFBqnUtmpigg0c_kjxA
+566,Mr. Men's Salon,Chicago,2,5,pv9JFBqnUtmpigg0c_kjxA
+567,The Classic Man Barbershop,Chicago,2,5,5AzDeY0mowrubQGvuR3ocA
+568,The Classic Man Barbershop,Chicago,2,2,5AzDeY0mowrubQGvuR3ocA
+569,The Classic Man Barbershop,Chicago,2,5,5AzDeY0mowrubQGvuR3ocA
+570,Art + Science Barbershop,Chicago,1,1,9c_Jx9dY0MSeJY8ZS4_qWQ
+571,Art + Science Barbershop,Chicago,1,5,9c_Jx9dY0MSeJY8ZS4_qWQ
+572,Art + Science Barbershop,Chicago,1,5,9c_Jx9dY0MSeJY8ZS4_qWQ
+573,Medinah Barber Shop,Chicago,1,5,On2670ft_L7Iat7884u7fg
+574,Medinah Barber Shop,Chicago,1,1,On2670ft_L7Iat7884u7fg
+575,Medinah Barber Shop,Chicago,1,5,On2670ft_L7Iat7884u7fg
+576,Barber Shop - UIC West Student Center,Chicago,2,5,3GQ6093wwB8P_LgcwZkSuQ
+577,Barber Shop - UIC West Student Center,Chicago,2,1,3GQ6093wwB8P_LgcwZkSuQ
+578,Barber Shop - UIC West Student Center,Chicago,2,5,3GQ6093wwB8P_LgcwZkSuQ
+579,Studio Cuts Barbershop,Chicago,2,1,67HZEML5iLqkCh1CAp_HPg
+580,Studio Cuts Barbershop,Chicago,2,5,67HZEML5iLqkCh1CAp_HPg
+581,Studio Cuts Barbershop,Chicago,2,5,67HZEML5iLqkCh1CAp_HPg
+582,Fade By Brothers,Chicago,2,2,b4S-GeOkk9rpSy1M_363rg
+583,Fade By Brothers,Chicago,2,5,b4S-GeOkk9rpSy1M_363rg
+584,Fade By Brothers,Chicago,2,5,b4S-GeOkk9rpSy1M_363rg
+585,Blues Barber Shop,Chicago,3,5,nPYRU9-FCYOGJ-2FDghbvQ
+586,Blues Barber Shop,Chicago,3,1,nPYRU9-FCYOGJ-2FDghbvQ
+587,Blues Barber Shop,Chicago,3,1,nPYRU9-FCYOGJ-2FDghbvQ
+588,Old Town Barbershop,Chicago,2,5,3r5IyMRQGmyVATDkEgrE2Q
+589,Old Town Barbershop,Chicago,2,1,3r5IyMRQGmyVATDkEgrE2Q
+590,Old Town Barbershop,Chicago,2,1,3r5IyMRQGmyVATDkEgrE2Q
+591,Logan Square Barbershop,Chicago,2,5,HsR6NOCQGcO-ZYMmCmrRgw
+592,Logan Square Barbershop,Chicago,2,1,HsR6NOCQGcO-ZYMmCmrRgw
+593,Logan Square Barbershop,Chicago,2,5,HsR6NOCQGcO-ZYMmCmrRgw
+594,Moca Master Cuts,Chicago,1,5,7Ry9iprF2le1QQNJ5rkGWg
+595,Moca Master Cuts,Chicago,1,1,7Ry9iprF2le1QQNJ5rkGWg
+596,Moca Master Cuts,Chicago,1,3,7Ry9iprF2le1QQNJ5rkGWg
+597,Hair by Becky,Chicago,1,5,twCJIpgKt_B9o4Qh5s60bQ
+598,Hair by Becky,Chicago,1,5,twCJIpgKt_B9o4Qh5s60bQ
+599,Hair by Becky,Chicago,1,5,twCJIpgKt_B9o4Qh5s60bQ
+600,ML2 Hair Design,Houston,2,5,7trQM-czng9gGn5drbWooA
+601,ML2 Hair Design,Houston,2,5,7trQM-czng9gGn5drbWooA
+602,ML2 Hair Design,Houston,2,5,7trQM-czng9gGn5drbWooA
+603,Cutloose Hair,Houston,2,5,BxlwZecTE5lNJ1DC-pFCXg
+604,Cutloose Hair,Houston,2,5,BxlwZecTE5lNJ1DC-pFCXg
+605,Cutloose Hair,Houston,2,4,BxlwZecTE5lNJ1DC-pFCXg
+606,King Salon,Houston,1,5,xlvqildNw5txUAN_QKaUFw
+607,King Salon,Houston,1,5,xlvqildNw5txUAN_QKaUFw
+608,King Salon,Houston,1,5,xlvqildNw5txUAN_QKaUFw
+609,Bich Nga Hair Design,Houston,1,5,pPyKXYxSqQUyfkocqsVncg
+610,Bich Nga Hair Design,Houston,1,5,pPyKXYxSqQUyfkocqsVncg
+611,Bich Nga Hair Design,Houston,1,5,pPyKXYxSqQUyfkocqsVncg
+612,The Argyle League,Houston,2,5,JPMZDsJ0tUPC-L1fqzGkgg
+613,The Argyle League,Houston,2,5,JPMZDsJ0tUPC-L1fqzGkgg
+614,The Argyle League,Houston,2,5,JPMZDsJ0tUPC-L1fqzGkgg
+615,Cutthroat,Houston,2,5,BpWr1nMMwAotUJoxlO-ouQ
+616,Cutthroat,Houston,2,1,BpWr1nMMwAotUJoxlO-ouQ
+617,Cutthroat,Houston,2,1,BpWr1nMMwAotUJoxlO-ouQ
+618,46 & 2 Barber,Houston,2,5,4kORClo8FHLJuL8oWNMlDw
+619,46 & 2 Barber,Houston,2,5,4kORClo8FHLJuL8oWNMlDw
+620,46 & 2 Barber,Houston,2,1,4kORClo8FHLJuL8oWNMlDw
+621,V's Barbershop - Houston Energy Corridor,Houston,2,5,2NfcRI9UmKOH2Q__TO-ZEg
+622,V's Barbershop - Houston Energy Corridor,Houston,2,5,2NfcRI9UmKOH2Q__TO-ZEg
+623,V's Barbershop - Houston Energy Corridor,Houston,2,4,2NfcRI9UmKOH2Q__TO-ZEg
+624,Roosters Men's Grooming Center,Houston,2,5,ZuxM4IsWSnmgJGk0Bq6a2Q
+625,Roosters Men's Grooming Center,Houston,2,1,ZuxM4IsWSnmgJGk0Bq6a2Q
+626,Roosters Men's Grooming Center,Houston,2,2,ZuxM4IsWSnmgJGk0Bq6a2Q
+627,Big Kat's Barbershop,Houston,1,4,FFMNtyYFY_uuo_QCX90p2A
+628,Big Kat's Barbershop,Houston,1,2,FFMNtyYFY_uuo_QCX90p2A
+629,Big Kat's Barbershop,Houston,1,5,FFMNtyYFY_uuo_QCX90p2A
+630,Martin's Gentlemen Salon,Houston,2,5,7KWLzU6TCcpT3wJlodlffA
+631,Martin's Gentlemen Salon,Houston,2,5,7KWLzU6TCcpT3wJlodlffA
+632,Martin's Gentlemen Salon,Houston,2,5,7KWLzU6TCcpT3wJlodlffA
+633,Boardroom Salon for Men - Houston Washington Heights,Houston,2,5,BEvuydnS6yjYgOMfcD1glA
+634,Boardroom Salon for Men - Houston Washington Heights,Houston,2,2,BEvuydnS6yjYgOMfcD1glA
+635,Boardroom Salon for Men - Houston Washington Heights,Houston,2,2,BEvuydnS6yjYgOMfcD1glA
+636,Chophouse Barber Company,Houston,2,5,s_fSxhmeOEzTwZKx0uO8pQ
+637,Chophouse Barber Company,Houston,2,2,s_fSxhmeOEzTwZKx0uO8pQ
+638,Chophouse Barber Company,Houston,2,5,s_fSxhmeOEzTwZKx0uO8pQ
+639,Boardroom Salon for Men - Houston,Houston,3,5,JRczoo4HTHV9RDqFDP5WmA
+640,Boardroom Salon for Men - Houston,Houston,3,1,JRczoo4HTHV9RDqFDP5WmA
+641,Boardroom Salon for Men - Houston,Houston,3,1,JRczoo4HTHV9RDqFDP5WmA
+642,East End Barber,Houston,2,5,RgMELUaNRp42Q_1gWwBDQw
+643,East End Barber,Houston,2,5,RgMELUaNRp42Q_1gWwBDQw
+644,East End Barber,Houston,2,5,RgMELUaNRp42Q_1gWwBDQw
+645,Doug's Barber Shop,Houston,1,4,601tN3ZtEDDPU2nMclsLyA
+646,Doug's Barber Shop,Houston,1,5,601tN3ZtEDDPU2nMclsLyA
+647,Doug's Barber Shop,Houston,1,2,601tN3ZtEDDPU2nMclsLyA
+648,Razor King Barber Shop,Houston,2,5,Oi4pEnaeDcKvi86amOI2Xw
+649,Razor King Barber Shop,Houston,2,1,Oi4pEnaeDcKvi86amOI2Xw
+650,Razor King Barber Shop,Houston,2,5,Oi4pEnaeDcKvi86amOI2Xw
+651,Mingli Hair Design,Houston,2,5,M5mvhfNxHSvc9iQSdb5QdA
+652,Mingli Hair Design,Houston,2,5,M5mvhfNxHSvc9iQSdb5QdA
+653,Mingli Hair Design,Houston,2,5,M5mvhfNxHSvc9iQSdb5QdA
+654,Masters Barber Shop,Houston,1,5,ecKDNtWa_EytTPOCbEhdDw
+655,Masters Barber Shop,Houston,1,5,ecKDNtWa_EytTPOCbEhdDw
+656,Masters Barber Shop,Houston,1,5,ecKDNtWa_EytTPOCbEhdDw
+657,Barber Social Club,Houston,2,5,PJEdAkTbtNnERvWpAFhnqQ
+658,Barber Social Club,Houston,2,5,PJEdAkTbtNnERvWpAFhnqQ
+659,Barber Social Club,Houston,2,5,PJEdAkTbtNnERvWpAFhnqQ
+660,Capone's Barber Shop,Houston,2,5,E7KLyZpOttNEaTcxmt6rSQ
+661,Capone's Barber Shop,Houston,2,5,E7KLyZpOttNEaTcxmt6rSQ
+662,Capone's Barber Shop,Houston,2,5,E7KLyZpOttNEaTcxmt6rSQ
+663,Bayou City Barber Shop,Houston,2,5,HMxbUrfaOwi4k_Lh4gkyIQ
+664,Bayou City Barber Shop,Houston,2,1,HMxbUrfaOwi4k_Lh4gkyIQ
+665,Bayou City Barber Shop,Houston,2,2,HMxbUrfaOwi4k_Lh4gkyIQ
+666,Cutthroat,Houston,2,5,SBVXKOQlxr6Os8W5UYGSPQ
+667,Cutthroat,Houston,2,5,SBVXKOQlxr6Os8W5UYGSPQ
+668,Cutthroat,Houston,2,1,SBVXKOQlxr6Os8W5UYGSPQ
+669,Boardroom Salon for Men - Rice Village,Houston,2,5,53OS5Ucjgj8JFnjnVgyajw
+670,Boardroom Salon for Men - Rice Village,Houston,2,1,53OS5Ucjgj8JFnjnVgyajw
+671,Boardroom Salon for Men - Rice Village,Houston,2,4,53OS5Ucjgj8JFnjnVgyajw
+672,The Original Fanatics,Houston,2,5,GZtZG_Ui9dCXGGRYwDi3eg
+673,The Original Fanatics,Houston,2,5,GZtZG_Ui9dCXGGRYwDi3eg
+674,The Original Fanatics,Houston,2,3,GZtZG_Ui9dCXGGRYwDi3eg
+675,Joe Lee's Barber Shop,Houston,2,5,oriixZA3s4aJCaNQtSwtuQ
+676,Joe Lee's Barber Shop,Houston,2,5,oriixZA3s4aJCaNQtSwtuQ
+677,Joe Lee's Barber Shop,Houston,2,5,oriixZA3s4aJCaNQtSwtuQ
+678,Times Barber Shop,Houston,1,5,I81SXmMnLAOQh-k2zM1AcQ
+679,Times Barber Shop,Houston,1,5,I81SXmMnLAOQh-k2zM1AcQ
+680,Times Barber Shop,Houston,1,5,I81SXmMnLAOQh-k2zM1AcQ
+681,The Gents Place - Houston River Oaks,Houston,3,5,ks7Nvk08CQ6XsDZQ1DTHlw
+682,The Gents Place - Houston River Oaks,Houston,3,5,ks7Nvk08CQ6XsDZQ1DTHlw
+683,The Gents Place - Houston River Oaks,Houston,3,5,ks7Nvk08CQ6XsDZQ1DTHlw
+684,House of Blades Hair Studio,Houston,2,5,r6S_fXa_PAlusofl34E8dA
+685,House of Blades Hair Studio,Houston,2,5,r6S_fXa_PAlusofl34E8dA
+686,House of Blades Hair Studio,Houston,2,5,r6S_fXa_PAlusofl34E8dA
+687,The Atascocita Barbershop,Houston,1,5,XceHQucg0vVgoS-O3LCCjQ
+688,The Atascocita Barbershop,Houston,1,1,XceHQucg0vVgoS-O3LCCjQ
+689,The Atascocita Barbershop,Houston,1,1,XceHQucg0vVgoS-O3LCCjQ
+690,Tune Up The Manly Salon - I-10 & Kirkwood,Houston,2,4,QmZqe_L0sSeys17ebv7NDQ
+691,Tune Up The Manly Salon - I-10 & Kirkwood,Houston,2,1,QmZqe_L0sSeys17ebv7NDQ
+692,Tune Up The Manly Salon - I-10 & Kirkwood,Houston,2,1,QmZqe_L0sSeys17ebv7NDQ
+693,Raymond's Barber Shop,Houston,1,5,-p6P57P5R9Ym2q2JUhIyuA
+694,Raymond's Barber Shop,Houston,1,5,-p6P57P5R9Ym2q2JUhIyuA
+695,Raymond's Barber Shop,Houston,1,5,-p6P57P5R9Ym2q2JUhIyuA
+696,Tune Up The Manly Salon - Silber,Houston,2,5,ULOtRx8ijviJq1kHRw318g
+697,Tune Up The Manly Salon - Silber,Houston,2,5,ULOtRx8ijviJq1kHRw318g
+698,Tune Up The Manly Salon - Silber,Houston,2,5,ULOtRx8ijviJq1kHRw318g
+699,Mike's Barber Shop,Houston,1,5,R_ZQxmlK-klg-EI0Rm_edA
+700,Mike's Barber Shop,Houston,1,1,R_ZQxmlK-klg-EI0Rm_edA
+701,Mike's Barber Shop,Houston,1,5,R_ZQxmlK-klg-EI0Rm_edA
+702,Boardroom Salon For Men - Tanglewood,Houston,2,5,EKi0OyVDfUnMwkgG5QiWJQ
+703,Boardroom Salon For Men - Tanglewood,Houston,2,2,EKi0OyVDfUnMwkgG5QiWJQ
+704,Boardroom Salon For Men - Tanglewood,Houston,2,5,EKi0OyVDfUnMwkgG5QiWJQ
+705,Fountainview Barber Shop,Houston,1,4,yoTd8z5_XXBZwuD-TwD9jw
+706,Fountainview Barber Shop,Houston,1,5,yoTd8z5_XXBZwuD-TwD9jw
+707,Fountainview Barber Shop,Houston,1,5,yoTd8z5_XXBZwuD-TwD9jw
+708,Clippers,Houston,1,5,5gCAKQ74tVqfD11sdVbBKw
+709,Clippers,Houston,1,5,5gCAKQ74tVqfD11sdVbBKw
+710,Clippers,Houston,1,5,5gCAKQ74tVqfD11sdVbBKw
+711,O K Styling Barber Shop,Houston,1,5,fzWqPMP6bDkW1gG9VD11nA
+712,O K Styling Barber Shop,Houston,1,5,fzWqPMP6bDkW1gG9VD11nA
+713,O K Styling Barber Shop,Houston,1,1,fzWqPMP6bDkW1gG9VD11nA
+714,The Gentry Men’s Salon,Houston,2,5,_uUaGEU4A9nBzmTVuXyW9w
+715,The Gentry Men’s Salon,Houston,2,5,_uUaGEU4A9nBzmTVuXyW9w
+716,The Gentry Men’s Salon,Houston,2,5,_uUaGEU4A9nBzmTVuXyW9w
+717,Executive Choice Barber Shop,Houston,1,5,3W1cQUm8r5wvswFc2BleYg
+718,Executive Choice Barber Shop,Houston,1,5,3W1cQUm8r5wvswFc2BleYg
+719,Executive Choice Barber Shop,Houston,1,1,3W1cQUm8r5wvswFc2BleYg
+720,Merlot's Barbershop,Houston,2,5,Zxgx9ms8d_-oJhp5lPvbRQ
+721,Merlot's Barbershop,Houston,2,1,Zxgx9ms8d_-oJhp5lPvbRQ
+722,Merlot's Barbershop,Houston,2,5,Zxgx9ms8d_-oJhp5lPvbRQ
+723,Inkfamous Tattoo and Barber,Houston,2,5,3lpROcyhf9WEoj-U13UJ1Q
+724,Inkfamous Tattoo and Barber,Houston,2,5,3lpROcyhf9WEoj-U13UJ1Q
+725,Inkfamous Tattoo and Barber,Houston,2,5,3lpROcyhf9WEoj-U13UJ1Q
+726,Spring Valley Barbershop,Houston,2,5,uUYhUGEyPa-Eq2vz6Q9YEg
+727,Spring Valley Barbershop,Houston,2,1,uUYhUGEyPa-Eq2vz6Q9YEg
+728,Spring Valley Barbershop,Houston,2,1,uUYhUGEyPa-Eq2vz6Q9YEg
+729,Bellaire's Original Barber Shop,Houston,2,5,ykGaMKYR9vdLOFWlAqxMsw
+730,Bellaire's Original Barber Shop,Houston,2,5,ykGaMKYR9vdLOFWlAqxMsw
+731,Bellaire's Original Barber Shop,Houston,2,1,ykGaMKYR9vdLOFWlAqxMsw
+732,Henry's Barber Shop,Houston,1,5,EZA7w4D_eGqAt7qKw8eIIg
+733,Henry's Barber Shop,Houston,1,5,EZA7w4D_eGqAt7qKw8eIIg
+734,Henry's Barber Shop,Houston,1,5,EZA7w4D_eGqAt7qKw8eIIg
+735,Made Men Galleria,Houston,2,5,v5fsso_AFFsVvCu7Q7iK0w
+736,Made Men Galleria,Houston,2,5,v5fsso_AFFsVvCu7Q7iK0w
+737,Made Men Galleria,Houston,2,5,v5fsso_AFFsVvCu7Q7iK0w
+738,Vintage Men's Grooming Lounge,Houston,2,5,VKe8AlRaOBekGYWMhe2RVw
+739,Vintage Men's Grooming Lounge,Houston,2,3,VKe8AlRaOBekGYWMhe2RVw
+740,Vintage Men's Grooming Lounge,Houston,2,3,VKe8AlRaOBekGYWMhe2RVw
+741,The Gent’s Spot Barbershop & Lounge,Houston,2,5,ePtcRTKle-Ak7W9i_PcA6A
+742,The Gent’s Spot Barbershop & Lounge,Houston,2,1,ePtcRTKle-Ak7W9i_PcA6A
+743,The Gent’s Spot Barbershop & Lounge,Houston,2,5,ePtcRTKle-Ak7W9i_PcA6A
+744,Mark's Barber Shop,Houston,2,5,zsJ6OmmK4AsI1r0V-pAHYg
+745,Mark's Barber Shop,Houston,2,2,zsJ6OmmK4AsI1r0V-pAHYg
+746,Mark's Barber Shop,Houston,2,5,zsJ6OmmK4AsI1r0V-pAHYg
+747,Bordelon's Barber Shop,Houston,2,5,xhqSBb6jZY5XEywdaPHzhw
+748,Bordelon's Barber Shop,Houston,2,5,xhqSBb6jZY5XEywdaPHzhw
+749,Bordelon's Barber Shop,Houston,2,5,xhqSBb6jZY5XEywdaPHzhw
+750,Amy Hieu Hair Salon,Houston,2,5,ywrcSA3vm5vaF09fPv1qlw
+751,Amy Hieu Hair Salon,Houston,2,1,ywrcSA3vm5vaF09fPv1qlw
+752,Amy Hieu Hair Salon,Houston,2,4,ywrcSA3vm5vaF09fPv1qlw
+753,Sport Clips Haircuts of Westheimer & Shepherd,Houston,1,5,FjwGKg8_twp4bwKePoQu-A
+754,Sport Clips Haircuts of Westheimer & Shepherd,Houston,1,4,FjwGKg8_twp4bwKePoQu-A
+755,Sport Clips Haircuts of Westheimer & Shepherd,Houston,1,5,FjwGKg8_twp4bwKePoQu-A
+756,Boardroom Salon for Men - Vintage Park,Houston,2,5,cP84_1rMg_pnrEdqLyfIZQ
+757,Boardroom Salon for Men - Vintage Park,Houston,2,1,cP84_1rMg_pnrEdqLyfIZQ
+758,Boardroom Salon for Men - Vintage Park,Houston,2,2,cP84_1rMg_pnrEdqLyfIZQ
+759,Boss Fadez Barbershop,Houston,2,5,4SzGtKmKY2Y1QwtHbu_yvQ
+760,Boss Fadez Barbershop,Houston,2,1,4SzGtKmKY2Y1QwtHbu_yvQ
+761,Boss Fadez Barbershop,Houston,2,1,4SzGtKmKY2Y1QwtHbu_yvQ
+762,Sport Clips Haircuts of Post Oak,Houston,2,5,eIEJe0yXUQ_z1YW2U-7Xmg
+763,Sport Clips Haircuts of Post Oak,Houston,2,5,eIEJe0yXUQ_z1YW2U-7Xmg
+764,Sport Clips Haircuts of Post Oak,Houston,2,5,eIEJe0yXUQ_z1YW2U-7Xmg
+765,The Empire Barber Studio,Houston,1,5,UWxSmnIXIyHfSUpTVB9mbA
+766,The Empire Barber Studio,Houston,1,5,UWxSmnIXIyHfSUpTVB9mbA
+767,The Empire Barber Studio,Houston,1,5,UWxSmnIXIyHfSUpTVB9mbA
+768,Rick's Barbershop,Houston,2,5,4YOs6bB93nL-d3h258i4cg
+769,Rick's Barbershop,Houston,2,5,4YOs6bB93nL-d3h258i4cg
+770,Rick's Barbershop,Houston,2,5,4YOs6bB93nL-d3h258i4cg
+771,The Barber's Chair,Houston,2,5,By-nxluNCEyHcamKxrQt7A
+772,The Barber's Chair,Houston,2,1,By-nxluNCEyHcamKxrQt7A
+773,The Barber's Chair,Houston,2,1,By-nxluNCEyHcamKxrQt7A
+774,Old School Barber Shop,Houston,2,5,U77juxtqJnZp7odYBJZIgw
+775,Old School Barber Shop,Houston,2,5,U77juxtqJnZp7odYBJZIgw
+776,Old School Barber Shop,Houston,2,5,U77juxtqJnZp7odYBJZIgw
+777,Professional Hair Salon,Houston,2,5,_VTAX7ntragr3iLMYbyJvA
+778,Professional Hair Salon,Houston,2,1,_VTAX7ntragr3iLMYbyJvA
+779,Professional Hair Salon,Houston,2,5,_VTAX7ntragr3iLMYbyJvA
+780,Roosters Men's Grooming Center,Houston,1,5,XTAkDBOMoKhZGVv0VJb6ig
+781,Roosters Men's Grooming Center,Houston,1,5,XTAkDBOMoKhZGVv0VJb6ig
+782,Roosters Men's Grooming Center,Houston,1,5,XTAkDBOMoKhZGVv0VJb6ig
+783,Hygienix Barber Company,Houston,1,5,NL0r1HHTp6yrh8DUIvc9Vg
+784,Hygienix Barber Company,Houston,1,1,NL0r1HHTp6yrh8DUIvc9Vg
+785,Hygienix Barber Company,Houston,1,1,NL0r1HHTp6yrh8DUIvc9Vg
+786,Dickey's Old Time Barber Shop,Houston,1,5,rgblBqhPNKzUkvkgtNWqXg
+787,Dickey's Old Time Barber Shop,Houston,1,4,rgblBqhPNKzUkvkgtNWqXg
+788,Dickey's Old Time Barber Shop,Houston,1,5,rgblBqhPNKzUkvkgtNWqXg
+789,Star Hair Salon,Houston,1,4,kWkiIFCLM29P2fmC5Np-uA
+790,Star Hair Salon,Houston,1,4,kWkiIFCLM29P2fmC5Np-uA
+791,Star Hair Salon,Houston,1,5,kWkiIFCLM29P2fmC5Np-uA
+792,Klassic Kutz & Salons,Houston,2,5,SqWb0gsvdYCK9TautXL0Vg
+793,Klassic Kutz & Salons,Houston,2,5,SqWb0gsvdYCK9TautXL0Vg
+794,Klassic Kutz & Salons,Houston,2,5,SqWb0gsvdYCK9TautXL0Vg
+795,Sheared The Barbershop,Houston,1,5,pxFVEa0u2Q18888ooGOEDw
+796,Sheared The Barbershop,Houston,1,5,pxFVEa0u2Q18888ooGOEDw
+797,Sheared The Barbershop,Houston,1,5,pxFVEa0u2Q18888ooGOEDw
+798,Trend Setters Barbershop,Houston,3,5,jRj2CBvolI8na1NpbKvj7w
+799,Trend Setters Barbershop,Houston,3,1,jRj2CBvolI8na1NpbKvj7w
+800,Trend Setters Barbershop,Houston,3,1,jRj2CBvolI8na1NpbKvj7w
+801,Daniel's Barber shop,Houston,2,5,N9ISFuiQe70r3o00nXN8Ew
+802,Daniel's Barber shop,Houston,2,5,N9ISFuiQe70r3o00nXN8Ew
+803,Daniel's Barber shop,Houston,2,5,N9ISFuiQe70r3o00nXN8Ew
+804,Gerrod Jones Barbershop,Houston,1,5,murc1hHPZScsFnpTHbWQfQ
+805,Gerrod Jones Barbershop,Houston,1,1,murc1hHPZScsFnpTHbWQfQ
+806,Gerrod Jones Barbershop,Houston,1,5,murc1hHPZScsFnpTHbWQfQ
+807,Razor Sharp 3000,Houston,2,5,P2MGCEmW9tD7ENU5bslDCw
+808,Razor Sharp 3000,Houston,2,1,P2MGCEmW9tD7ENU5bslDCw
+809,Razor Sharp 3000,Houston,2,5,P2MGCEmW9tD7ENU5bslDCw
+810,Glenn the Barber in Red's Baber Shop,Houston,1,5,eSxlMCurxQO5GxrkwsZOgw
+811,Glenn the Barber in Red's Baber Shop,Houston,1,5,eSxlMCurxQO5GxrkwsZOgw
+812,Glenn the Barber in Red's Baber Shop,Houston,1,5,eSxlMCurxQO5GxrkwsZOgw
+813,Moe Better Cuts,Houston,2,5,XItzxRWLWEjfhrohFKSyoQ
+814,Moe Better Cuts,Houston,2,5,XItzxRWLWEjfhrohFKSyoQ
+815,Moe Better Cuts,Houston,2,5,XItzxRWLWEjfhrohFKSyoQ
+816,Hair Fashion Salon,Houston,1,5,a1lS_rHy4ETjYDhTMA49cA
+817,Hair Fashion Salon,Houston,1,5,a1lS_rHy4ETjYDhTMA49cA
+818,Hair Fashion Salon,Houston,1,5,a1lS_rHy4ETjYDhTMA49cA
+819,Los Gents Barbershop,Houston,2,5,SR19Yre05KH_-USPOYLXvg
+820,Los Gents Barbershop,Houston,2,5,SR19Yre05KH_-USPOYLXvg
+821,Los Gents Barbershop,Houston,2,5,SR19Yre05KH_-USPOYLXvg
+822,Woodlake Barber Shop,Houston,2,5,Nu_6wZA-Hp4p7FR3MGeqpw
+823,Woodlake Barber Shop,Houston,2,4,Nu_6wZA-Hp4p7FR3MGeqpw
+824,Woodlake Barber Shop,Houston,2,5,Nu_6wZA-Hp4p7FR3MGeqpw
+825,Elegance Hair Salon,Houston,1,5,Y95YSloQMbAqGIlQa6AYRg
+826,Elegance Hair Salon,Houston,1,1,Y95YSloQMbAqGIlQa6AYRg
+827,Elegance Hair Salon,Houston,1,1,Y95YSloQMbAqGIlQa6AYRg
+828,Thuy's Hair Fashion,Houston,1,5,wPT9k-cwMX435TuAp0Mlmg
+829,Thuy's Hair Fashion,Houston,1,5,wPT9k-cwMX435TuAp0Mlmg
+830,Thuy's Hair Fashion,Houston,1,5,wPT9k-cwMX435TuAp0Mlmg
+831,The Sharper Edge,Houston,2,5,05DGEc0U81gVK3XuLNChlw
+832,The Sharper Edge,Houston,2,1,05DGEc0U81gVK3XuLNChlw
+833,The Sharper Edge,Houston,2,5,05DGEc0U81gVK3XuLNChlw
+834,Avalon Barber Shop,Houston,2,5,62DLy07MtwsfsWV_jaaE8A
+835,Avalon Barber Shop,Houston,2,3,62DLy07MtwsfsWV_jaaE8A
+836,Avalon Barber Shop,Houston,2,4,62DLy07MtwsfsWV_jaaE8A
+837,City Boyz Barber Shop,Houston,2,2,mX0FRJ5W3K_KkGD5J7_Mew
+838,City Boyz Barber Shop,Houston,2,1,mX0FRJ5W3K_KkGD5J7_Mew
+839,City Boyz Barber Shop,Houston,2,5,mX0FRJ5W3K_KkGD5J7_Mew
+840,Midtown Barbershop,Houston,2,4,v3QZQckNEA2Or4teyOX9EA
+841,Midtown Barbershop,Houston,2,4,v3QZQckNEA2Or4teyOX9EA
+842,Midtown Barbershop,Houston,2,5,v3QZQckNEA2Or4teyOX9EA
+843,Moe the Barber,Houston,1,5,JgMI82mo0yLVkzEe7oujPg
+844,Moe the Barber,Houston,1,4,JgMI82mo0yLVkzEe7oujPg
+845,Moe the Barber,Houston,1,5,JgMI82mo0yLVkzEe7oujPg
+846,Ismael the Barber,Houston,2,5,sSgtOXCrW6_l9q-WEa7AGA
+847,Ismael the Barber,Houston,2,5,sSgtOXCrW6_l9q-WEa7AGA
+848,Ismael the Barber,Houston,2,5,sSgtOXCrW6_l9q-WEa7AGA
+849,Kingwood Barber Shop,Houston,2,5,MOvYs6GpaI6G2FxSpWdY9A
+850,Kingwood Barber Shop,Houston,2,5,MOvYs6GpaI6G2FxSpWdY9A
+851,Kingwood Barber Shop,Houston,2,5,MOvYs6GpaI6G2FxSpWdY9A
+852,Neno Stylo Barber Shop,Houston,2,5,8jzAcTWwrltnt4wxhMjUpA
+853,Neno Stylo Barber Shop,Houston,2,5,8jzAcTWwrltnt4wxhMjUpA
+854,Neno Stylo Barber Shop,Houston,2,5,8jzAcTWwrltnt4wxhMjUpA
+855,House Of Clippers,Houston,2,5,HyhWhxDWTsTWdYiu09tONw
+856,House Of Clippers,Houston,2,5,HyhWhxDWTsTWdYiu09tONw
+857,House Of Clippers,Houston,2,1,HyhWhxDWTsTWdYiu09tONw
+858,Top Styles Barber Shop,Houston,2,5,xBs3mPMNbkWDOKUvIZl-UQ
+859,Top Styles Barber Shop,Houston,2,1,xBs3mPMNbkWDOKUvIZl-UQ
+860,Top Styles Barber Shop,Houston,2,1,xBs3mPMNbkWDOKUvIZl-UQ
+861,International Barber Shop,Houston,3,5,-pLSJ0QBDTuKEUuVaW0trQ
+862,International Barber Shop,Houston,3,5,-pLSJ0QBDTuKEUuVaW0trQ
+863,International Barber Shop,Houston,3,4,-pLSJ0QBDTuKEUuVaW0trQ
+864,Mr Guillory's Master Barber Shop,Houston,2,5,ZIgJ1Mx9owiR_PvAXvyClw
+865,Mr Guillory's Master Barber Shop,Houston,2,2,ZIgJ1Mx9owiR_PvAXvyClw
+866,Mr Guillory's Master Barber Shop,Houston,2,1,ZIgJ1Mx9owiR_PvAXvyClw
+867,Memorial Barbershop,Houston,2,5,mIyIfWLrlrZ9OaKP51MQrA
+868,Memorial Barbershop,Houston,2,1,mIyIfWLrlrZ9OaKP51MQrA
+869,Memorial Barbershop,Houston,2,4,mIyIfWLrlrZ9OaKP51MQrA
+870,Lynn's Barber Shop,Houston,1,5,oYHR9B4fzCEpOqRErarLNw
+871,Lynn's Barber Shop,Houston,1,5,oYHR9B4fzCEpOqRErarLNw
+872,Lynn's Barber Shop,Houston,1,5,oYHR9B4fzCEpOqRErarLNw
+873,Kuttin Dreamz,Houston,1,1,wmt1P7covD7lgw76PQc_Yg
+874,Kuttin Dreamz,Houston,1,1,wmt1P7covD7lgw76PQc_Yg
+875,Kuttin Dreamz,Houston,1,5,wmt1P7covD7lgw76PQc_Yg
+876,King's Crown Grooming Station,Houston,2,5,hpZ3SAbdOkUwc6jIkN7VeA
+877,King's Crown Grooming Station,Houston,2,5,hpZ3SAbdOkUwc6jIkN7VeA
+878,King's Crown Grooming Station,Houston,2,5,hpZ3SAbdOkUwc6jIkN7VeA
+879,Sammy's Barber Styling Shop,Houston,2,5,euq12RnwXsR7EZnR8WOP2Q
+880,Sammy's Barber Styling Shop,Houston,2,1,euq12RnwXsR7EZnR8WOP2Q
+881,Sammy's Barber Styling Shop,Houston,2,5,euq12RnwXsR7EZnR8WOP2Q
+882,Texas  Barber Shop,Houston,2,5,hNOoNUnQyqrRfgQMg5jLxg
+883,Texas  Barber Shop,Houston,2,5,hNOoNUnQyqrRfgQMg5jLxg
+884,Texas  Barber Shop,Houston,2,5,hNOoNUnQyqrRfgQMg5jLxg
+885,Jay's Hair Studio,Houston,3,5,7qDDbqnPfQ3cngguF3XG3g
+886,Jay's Hair Studio,Houston,3,5,7qDDbqnPfQ3cngguF3XG3g
+887,Jay's Hair Studio,Houston,3,2,7qDDbqnPfQ3cngguF3XG3g
+888,Vintage Cuts,Houston,2,5,JJLRaM3Bd4C0pc0vDvKVTw
+889,Vintage Cuts,Houston,2,4,JJLRaM3Bd4C0pc0vDvKVTw
+890,Vintage Cuts,Houston,2,5,JJLRaM3Bd4C0pc0vDvKVTw
+891,Kustom Kutz Barbershop And Shave Parlor,Houston,2,4,k5LNmnyeIf5qFdAqjTT5Uw
+892,Kustom Kutz Barbershop And Shave Parlor,Houston,2,5,k5LNmnyeIf5qFdAqjTT5Uw
+893,Kustom Kutz Barbershop And Shave Parlor,Houston,2,1,k5LNmnyeIf5qFdAqjTT5Uw
+894,T's Kutz - Salon & Barbershop,Houston,1,5,Hz-gFqmLeKS7kuLTEg8Rgw
+895,T's Kutz - Salon & Barbershop,Houston,1,5,Hz-gFqmLeKS7kuLTEg8Rgw
+896,T's Kutz - Salon & Barbershop,Houston,1,5,Hz-gFqmLeKS7kuLTEg8Rgw
+897,Studewood's Barber Shop,Houston,1,5,cM1QiW0UcDOMkH22fm-QBg
+898,Studewood's Barber Shop,Houston,1,5,cM1QiW0UcDOMkH22fm-QBg
+899,Studewood's Barber Shop,Houston,1,5,cM1QiW0UcDOMkH22fm-QBg
+900,Semion Barbershop For All,Denver,2,5,j7yTtl2RihlGuT0dBJh32A
+901,Semion Barbershop For All,Denver,2,5,j7yTtl2RihlGuT0dBJh32A
+902,Semion Barbershop For All,Denver,2,5,j7yTtl2RihlGuT0dBJh32A
+903,Retro Room Lounge and Salon,Denver,1,4,kBYupQd1tK32J6sD6QkcCw
+904,Retro Room Lounge and Salon,Denver,1,5,kBYupQd1tK32J6sD6QkcCw
+905,Retro Room Lounge and Salon,Denver,1,5,kBYupQd1tK32J6sD6QkcCw
+906,Floyd's 99 Barbershop,Denver,2,5,o1cdiYmL3lTo5Hn7uB6TOQ
+907,Floyd's 99 Barbershop,Denver,2,1,o1cdiYmL3lTo5Hn7uB6TOQ
+908,Floyd's 99 Barbershop,Denver,2,1,o1cdiYmL3lTo5Hn7uB6TOQ
+909,Alfani's Barbershop,Denver,2,5,vdklzL_5xPYT6UaGZ5b4jQ
+910,Alfani's Barbershop,Denver,2,5,vdklzL_5xPYT6UaGZ5b4jQ
+911,Alfani's Barbershop,Denver,2,5,vdklzL_5xPYT6UaGZ5b4jQ
+912,Floyd's 99 Barbershop,Denver,2,5,4zB1j8UnvT8f7YE9OlR0OQ
+913,Floyd's 99 Barbershop,Denver,2,5,4zB1j8UnvT8f7YE9OlR0OQ
+914,Floyd's 99 Barbershop,Denver,2,1,4zB1j8UnvT8f7YE9OlR0OQ
+915,Legends Grooming Lounge,Denver,2,5,nhNecjxgIWJpRcdAd7Nmsg
+916,Legends Grooming Lounge,Denver,2,5,nhNecjxgIWJpRcdAd7Nmsg
+917,Legends Grooming Lounge,Denver,2,5,nhNecjxgIWJpRcdAd7Nmsg
+918,Leetsdale Barbers,Denver,1,5,ea7Ht5uiHs1nOK0cn0ao4A
+919,Leetsdale Barbers,Denver,1,5,ea7Ht5uiHs1nOK0cn0ao4A
+920,Leetsdale Barbers,Denver,1,5,ea7Ht5uiHs1nOK0cn0ao4A
+921,Floyd's 99 Barbershop,Denver,2,5,ARGqs7U1iEF-TSXxYAGQqg
+922,Floyd's 99 Barbershop,Denver,2,5,ARGqs7U1iEF-TSXxYAGQqg
+923,Floyd's 99 Barbershop,Denver,2,4,ARGqs7U1iEF-TSXxYAGQqg
+924,Ollie's Barbershop,Denver,2,5,y69tHlCvtkF-qNn81eogYg
+925,Ollie's Barbershop,Denver,2,2,y69tHlCvtkF-qNn81eogYg
+926,Ollie's Barbershop,Denver,2,2,y69tHlCvtkF-qNn81eogYg
+927,Tried & True Barbershop,Denver,1,5,ep5Lp_IGBLY1ynXZQQK_3A
+928,Tried & True Barbershop,Denver,1,5,ep5Lp_IGBLY1ynXZQQK_3A
+929,Tried & True Barbershop,Denver,1,5,ep5Lp_IGBLY1ynXZQQK_3A
+930,Scissors & Scotch - Denver,Denver,2,5,D3fkP8Zkf3w0PWnmO4LhdQ
+931,Scissors & Scotch - Denver,Denver,2,2,D3fkP8Zkf3w0PWnmO4LhdQ
+932,Scissors & Scotch - Denver,Denver,2,5,D3fkP8Zkf3w0PWnmO4LhdQ
+933,Semion Barbershop For All,Denver,2,5,1sY2WIn2Qbejuw4bhxJ4WQ
+934,Semion Barbershop For All,Denver,2,5,1sY2WIn2Qbejuw4bhxJ4WQ
+935,Semion Barbershop For All,Denver,2,5,1sY2WIn2Qbejuw4bhxJ4WQ
+936,Al's Barber Shop,Denver,2,5,Jq2JQ5Ud_KV7F85V_rKi7w
+937,Al's Barber Shop,Denver,2,1,Jq2JQ5Ud_KV7F85V_rKi7w
+938,Al's Barber Shop,Denver,2,5,Jq2JQ5Ud_KV7F85V_rKi7w
+939,Chopz Men's Salon,Denver,2,5,ybzRhNr23nyYtrXcYMsANw
+940,Chopz Men's Salon,Denver,2,5,ybzRhNr23nyYtrXcYMsANw
+941,Chopz Men's Salon,Denver,2,5,ybzRhNr23nyYtrXcYMsANw
+942,Finley’s Barbershop,Denver,2,5,rVxqWkWZBt_ZbAoyzNZ3_A
+943,Finley’s Barbershop,Denver,2,2,rVxqWkWZBt_ZbAoyzNZ3_A
+944,Finley’s Barbershop,Denver,2,1,rVxqWkWZBt_ZbAoyzNZ3_A
+945,Rock Barbers,Denver,2,5,vGE0fKq24V4CQ2tDL9IltA
+946,Rock Barbers,Denver,2,5,vGE0fKq24V4CQ2tDL9IltA
+947,Rock Barbers,Denver,2,5,vGE0fKq24V4CQ2tDL9IltA
+948,Rockstar Industries,Denver,3,5,Ve8a6OQSIePMRr4_5adUmw
+949,Rockstar Industries,Denver,3,5,Ve8a6OQSIePMRr4_5adUmw
+950,Rockstar Industries,Denver,3,5,Ve8a6OQSIePMRr4_5adUmw
+951,Brixton Barbers,Denver,2,5,OSpYD9HGQ2SLxvs2zCs3pg
+952,Brixton Barbers,Denver,2,5,OSpYD9HGQ2SLxvs2zCs3pg
+953,Brixton Barbers,Denver,2,5,OSpYD9HGQ2SLxvs2zCs3pg
+954,Rollins Barbershop,Denver,2,5,nGq4lIU-M3LoxDzTiFUNdA
+955,Rollins Barbershop,Denver,2,1,nGq4lIU-M3LoxDzTiFUNdA
+956,Rollins Barbershop,Denver,2,3,nGq4lIU-M3LoxDzTiFUNdA
+957,Spruce Barbershop,Denver,2,5,Al6fQ7BE9EpVcQtVufNKGQ
+958,Spruce Barbershop,Denver,2,5,Al6fQ7BE9EpVcQtVufNKGQ
+959,Spruce Barbershop,Denver,2,1,Al6fQ7BE9EpVcQtVufNKGQ
+960,Indie Six,Denver,2,5,TrIQjJpR_Hkr-j5lq28gYg
+961,Indie Six,Denver,2,1,TrIQjJpR_Hkr-j5lq28gYg
+962,Indie Six,Denver,2,3,TrIQjJpR_Hkr-j5lq28gYg
+963,Stan's Downtown Barbers - Champa,Denver,2,5,LwRHkQUv8g_eor9bUGcWGQ
+964,Stan's Downtown Barbers - Champa,Denver,2,5,LwRHkQUv8g_eor9bUGcWGQ
+965,Stan's Downtown Barbers - Champa,Denver,2,5,LwRHkQUv8g_eor9bUGcWGQ
+966,Chuck's Barber Shop,Denver,1,5,BhhX-JHz8XmOer9mmdN-Ag
+967,Chuck's Barber Shop,Denver,1,5,BhhX-JHz8XmOer9mmdN-Ag
+968,Chuck's Barber Shop,Denver,1,5,BhhX-JHz8XmOer9mmdN-Ag
+969,Quincy Barbers,Denver,1,5,vV0vSxZMv9CiJuQdbQJwLg
+970,Quincy Barbers,Denver,1,1,vV0vSxZMv9CiJuQdbQJwLg
+971,Quincy Barbers,Denver,1,5,vV0vSxZMv9CiJuQdbQJwLg
+972,Razors Sharp Cuts,Denver,2,5,4CghAXTG89IgirpVBLx1AQ
+973,Razors Sharp Cuts,Denver,2,5,4CghAXTG89IgirpVBLx1AQ
+974,Razors Sharp Cuts,Denver,2,5,4CghAXTG89IgirpVBLx1AQ
+975,World Class Men's Cuts,Denver,1,5,azD2xQacXfQNJAG1XJPlaQ
+976,World Class Men's Cuts,Denver,1,2,azD2xQacXfQNJAG1XJPlaQ
+977,World Class Men's Cuts,Denver,1,4,azD2xQacXfQNJAG1XJPlaQ
+978,Northside Barbers,Denver,1,5,nz-FS8wCy_uDCC1r2aSyog
+979,Northside Barbers,Denver,1,1,nz-FS8wCy_uDCC1r2aSyog
+980,Northside Barbers,Denver,1,5,nz-FS8wCy_uDCC1r2aSyog
+981,Locks Salon And Barbershop,Denver,2,5,_jhd1ZyxF1D_9e9fWfFTUQ
+982,Locks Salon And Barbershop,Denver,2,3,_jhd1ZyxF1D_9e9fWfFTUQ
+983,Locks Salon And Barbershop,Denver,2,1,_jhd1ZyxF1D_9e9fWfFTUQ
+984,Rebel Salon,Denver,2,5,aergdu1c1KEV-DLHzS7JjA
+985,Rebel Salon,Denver,2,1,aergdu1c1KEV-DLHzS7JjA
+986,Rebel Salon,Denver,2,5,aergdu1c1KEV-DLHzS7JjA
+987,The Usual Barbershop,Denver,2,5,C4RrLMhSHESuYdts48DQSg
+988,The Usual Barbershop,Denver,2,5,C4RrLMhSHESuYdts48DQSg
+989,The Usual Barbershop,Denver,2,5,C4RrLMhSHESuYdts48DQSg
+990,Al's Barber Shop,Denver,2,5,fYtZMaqjxT_dzwSzriy0aQ
+991,Al's Barber Shop,Denver,2,5,fYtZMaqjxT_dzwSzriy0aQ
+992,Al's Barber Shop,Denver,2,5,fYtZMaqjxT_dzwSzriy0aQ
+993,Hoffman Heights S&R Barber Shop,Denver,1,5,irELHPrbivfpxwY0g3xfTg
+994,Hoffman Heights S&R Barber Shop,Denver,1,5,irELHPrbivfpxwY0g3xfTg
+995,Hoffman Heights S&R Barber Shop,Denver,1,5,irELHPrbivfpxwY0g3xfTg
+996,Frank's Gentlemen's Salon,Denver,2,5,a100K6CUfcz_B6cLnq6vjA
+997,Frank's Gentlemen's Salon,Denver,2,5,a100K6CUfcz_B6cLnq6vjA
+998,Frank's Gentlemen's Salon,Denver,2,4,a100K6CUfcz_B6cLnq6vjA
+999,Piper's Parlor,Denver,2,5,CeK7YJElUhcyn6nygl6E_Q
+1000,Piper's Parlor,Denver,2,5,CeK7YJElUhcyn6nygl6E_Q
+1001,Piper's Parlor,Denver,2,5,CeK7YJElUhcyn6nygl6E_Q
+1002,The Barber Shop,Denver,2,5,Ay_6nvIMHah_DKCtxBAOaQ
+1003,The Barber Shop,Denver,2,5,Ay_6nvIMHah_DKCtxBAOaQ
+1004,The Barber Shop,Denver,2,5,Ay_6nvIMHah_DKCtxBAOaQ
+1005,BC Barber Co,Denver,2,5,jsf9xKePWBoR1yA44uNVJg
+1006,BC Barber Co,Denver,2,1,jsf9xKePWBoR1yA44uNVJg
+1007,BC Barber Co,Denver,2,5,jsf9xKePWBoR1yA44uNVJg
+1008,Northglenn Barbers,Denver,1,5,wUAnGLToYgLn_19iYl9QhQ
+1009,Northglenn Barbers,Denver,1,1,wUAnGLToYgLn_19iYl9QhQ
+1010,Northglenn Barbers,Denver,1,2,wUAnGLToYgLn_19iYl9QhQ
+1011,Le Barbershop,Denver,2,5,yEh6irLVP6H7jDUe5UV5NA
+1012,Le Barbershop,Denver,2,5,yEh6irLVP6H7jDUe5UV5NA
+1013,Le Barbershop,Denver,2,5,yEh6irLVP6H7jDUe5UV5NA
+1014,Broadway Barbers,Denver,2,5,5WQ8NrE7Mj6ZMlKPYyBiBg
+1015,Broadway Barbers,Denver,2,1,5WQ8NrE7Mj6ZMlKPYyBiBg
+1016,Broadway Barbers,Denver,2,5,5WQ8NrE7Mj6ZMlKPYyBiBg
+1017,The Gentlemen's Groom Room,Denver,2,5,AhS5I0oaQ6DykpvDXl1q8Q
+1018,The Gentlemen's Groom Room,Denver,2,5,AhS5I0oaQ6DykpvDXl1q8Q
+1019,The Gentlemen's Groom Room,Denver,2,1,AhS5I0oaQ6DykpvDXl1q8Q
+1020,Wise Guys Barber Shop,Denver,1,5,Lj2UiXBQ7uGM16FT_DOWWQ
+1021,Wise Guys Barber Shop,Denver,1,5,Lj2UiXBQ7uGM16FT_DOWWQ
+1022,Wise Guys Barber Shop,Denver,1,5,Lj2UiXBQ7uGM16FT_DOWWQ
+1023,Old Gold Barber Shop,Denver,2,5,55sMeOnf2e8RLZui4M9SmA
+1024,Old Gold Barber Shop,Denver,2,5,55sMeOnf2e8RLZui4M9SmA
+1025,Old Gold Barber Shop,Denver,2,5,55sMeOnf2e8RLZui4M9SmA
+1026,Hollywood Barber Shop,Denver,1,5,mJOhKhYOwRpZtCPBzmXUDQ
+1027,Hollywood Barber Shop,Denver,1,1,mJOhKhYOwRpZtCPBzmXUDQ
+1028,Hollywood Barber Shop,Denver,1,2,mJOhKhYOwRpZtCPBzmXUDQ
+1029,The Barber Joint,Denver,2,5,v5iPTbRL_39jDrPUvWInAw
+1030,The Barber Joint,Denver,2,1,v5iPTbRL_39jDrPUvWInAw
+1031,The Barber Joint,Denver,2,5,v5iPTbRL_39jDrPUvWInAw
+1032,Jordan's Barbershop,Denver,1,5,l-3Tz48UxPwghV8Ad7HGNA
+1033,Jordan's Barbershop,Denver,1,5,l-3Tz48UxPwghV8Ad7HGNA
+1034,Jordan's Barbershop,Denver,1,5,l-3Tz48UxPwghV8Ad7HGNA
+1035,London Alley Salon,Denver,2,5,ZghXVsXKXCn9Xf5zbPOqZA
+1036,London Alley Salon,Denver,2,5,ZghXVsXKXCn9Xf5zbPOqZA
+1037,London Alley Salon,Denver,2,5,ZghXVsXKXCn9Xf5zbPOqZA
+1038,Metropolitan Barber Shop,Denver,2,5,1wU1Cc0H6J1ln7q9KD6ggg
+1039,Metropolitan Barber Shop,Denver,2,5,1wU1Cc0H6J1ln7q9KD6ggg
+1040,Metropolitan Barber Shop,Denver,2,5,1wU1Cc0H6J1ln7q9KD6ggg
+1041,303 Barbershop,Denver,2,5,7kFgdkq41q2CVnH586CNTg
+1042,303 Barbershop,Denver,2,1,7kFgdkq41q2CVnH586CNTg
+1043,303 Barbershop,Denver,2,2,7kFgdkq41q2CVnH586CNTg
+1044,Upper Cut,Denver,1,5,JwtcAXbM_ruPj8lM4Vvmhw
+1045,Upper Cut,Denver,1,5,JwtcAXbM_ruPj8lM4Vvmhw
+1046,Upper Cut,Denver,1,5,JwtcAXbM_ruPj8lM4Vvmhw
+1047,Co Reed's Barbershop,Denver,2,1,mIXtYPJdfdaFHCNmkiM-Kg
+1048,Co Reed's Barbershop,Denver,2,2,mIXtYPJdfdaFHCNmkiM-Kg
+1049,Co Reed's Barbershop,Denver,2,5,mIXtYPJdfdaFHCNmkiM-Kg
+1050,Babooshka,Denver,2,5,rRKsOeNUOiwAGTgmcNtbPw
+1051,Babooshka,Denver,2,5,rRKsOeNUOiwAGTgmcNtbPw
+1052,Babooshka,Denver,2,5,rRKsOeNUOiwAGTgmcNtbPw
+1053,3 Little Birds Salon,Denver,2,5,27YJxvzE8-aCr4bzsnp9zQ
+1054,3 Little Birds Salon,Denver,2,5,27YJxvzE8-aCr4bzsnp9zQ
+1055,3 Little Birds Salon,Denver,2,4,27YJxvzE8-aCr4bzsnp9zQ
+1056,Three Cutters Wash Park,Denver,2,5,MUYeDXCiAZDAvB2j65vZKw
+1057,Three Cutters Wash Park,Denver,2,5,MUYeDXCiAZDAvB2j65vZKw
+1058,Three Cutters Wash Park,Denver,2,2,MUYeDXCiAZDAvB2j65vZKw
+1059,The Parlour,Denver,2,5,Z6YOInTjzEVI_TdFvmkYng
+1060,The Parlour,Denver,2,5,Z6YOInTjzEVI_TdFvmkYng
+1061,The Parlour,Denver,2,5,Z6YOInTjzEVI_TdFvmkYng
+1062,Floyd's 99 Barbershop,Denver,2,5,794XCaZDpw6NA_vzK1Pgqw
+1063,Floyd's 99 Barbershop,Denver,2,1,794XCaZDpw6NA_vzK1Pgqw
+1064,Floyd's 99 Barbershop,Denver,2,5,794XCaZDpw6NA_vzK1Pgqw
+1065,Floyd's 99 Barbershop,Denver,2,5,zWl6FK_N3QPK2QF9-OSSwQ
+1066,Floyd's 99 Barbershop,Denver,2,5,zWl6FK_N3QPK2QF9-OSSwQ
+1067,Floyd's 99 Barbershop,Denver,2,1,zWl6FK_N3QPK2QF9-OSSwQ
+1068,18|8 Fine Men's Salons - Centennial,Denver,2,5,pyOQfl0xhLdELB3j8vWajw
+1069,18|8 Fine Men's Salons - Centennial,Denver,2,2,pyOQfl0xhLdELB3j8vWajw
+1070,18|8 Fine Men's Salons - Centennial,Denver,2,5,pyOQfl0xhLdELB3j8vWajw
+1071,Roosters Men's Grooming Center,Denver,2,5,UqlOgEtbtIDgUCtx4LuVdw
+1072,Roosters Men's Grooming Center,Denver,2,5,UqlOgEtbtIDgUCtx4LuVdw
+1073,Roosters Men's Grooming Center,Denver,2,1,UqlOgEtbtIDgUCtx4LuVdw
+1074,Floyd's 99 Barbershop,Denver,2,5,VTfeoG5nx0ACdYv7yzehsg
+1075,Floyd's 99 Barbershop,Denver,2,2,VTfeoG5nx0ACdYv7yzehsg
+1076,Floyd's 99 Barbershop,Denver,2,1,VTfeoG5nx0ACdYv7yzehsg
+1077,Pigtails & Crewcuts,Denver,2,5,POW6gdIoOHSNCI41XgHUnw
+1078,Pigtails & Crewcuts,Denver,2,5,POW6gdIoOHSNCI41XgHUnw
+1079,Pigtails & Crewcuts,Denver,2,1,POW6gdIoOHSNCI41XgHUnw
+1080,Knockouts Haircuts for Men,Denver,2,5,jBuPFQ2oZfuueZ2Q8Xn1Qg
+1081,Knockouts Haircuts for Men,Denver,2,1,jBuPFQ2oZfuueZ2Q8Xn1Qg
+1082,Knockouts Haircuts for Men,Denver,2,1,jBuPFQ2oZfuueZ2Q8Xn1Qg
+1083,Altitude Barbershop,Denver,2,5,usGb_bAOphXzMOvvXmWLSg
+1084,Altitude Barbershop,Denver,2,5,usGb_bAOphXzMOvvXmWLSg
+1085,Altitude Barbershop,Denver,2,2,usGb_bAOphXzMOvvXmWLSg
+1086,Tribute Barbershop Lounge,Denver,2,5,lNZpd2ht3ZY9DR83YNq8RA
+1087,Tribute Barbershop Lounge,Denver,2,4,lNZpd2ht3ZY9DR83YNq8RA
+1088,Tribute Barbershop Lounge,Denver,2,1,lNZpd2ht3ZY9DR83YNq8RA
+1089,Roosters Men's Grooming Center,Denver,2,5,SfWwXcQQzX3zUAz9eLa3tg
+1090,Roosters Men's Grooming Center,Denver,2,5,SfWwXcQQzX3zUAz9eLa3tg
+1091,Roosters Men's Grooming Center,Denver,2,1,SfWwXcQQzX3zUAz9eLa3tg
+1092,Classic Colorado Barbers,Denver,1,5,nFH_3Z6lrT3Mw73dojrQlw
+1093,Classic Colorado Barbers,Denver,1,5,nFH_3Z6lrT3Mw73dojrQlw
+1094,Classic Colorado Barbers,Denver,1,1,nFH_3Z6lrT3Mw73dojrQlw
+1095,Chap's Barbershop,Denver,1,5,ti7vWn9-4-rODhhSOiZU9A
+1096,Chap's Barbershop,Denver,1,5,ti7vWn9-4-rODhhSOiZU9A
+1097,Chap's Barbershop,Denver,1,5,ti7vWn9-4-rODhhSOiZU9A
+1098,Urban Luxury Salons,Denver,2,5,ipZB1IyHZ1F6QRtv-UxxeQ
+1099,Urban Luxury Salons,Denver,2,5,ipZB1IyHZ1F6QRtv-UxxeQ
+1100,Urban Luxury Salons,Denver,2,5,ipZB1IyHZ1F6QRtv-UxxeQ
+1101,The Brooklyn Barber Academy,Denver,2,5,M9qD9W0za0gScnqCGxl8Zw
+1102,The Brooklyn Barber Academy,Denver,2,5,M9qD9W0za0gScnqCGxl8Zw
+1103,The Brooklyn Barber Academy,Denver,2,5,M9qD9W0za0gScnqCGxl8Zw
+1104,Johnny's Barber Styling Shop,Denver,1,5,2yJXHPw96aInPopGwnAi5w
+1105,Johnny's Barber Styling Shop,Denver,1,5,2yJXHPw96aInPopGwnAi5w
+1106,Johnny's Barber Styling Shop,Denver,1,5,2yJXHPw96aInPopGwnAi5w
+1107,Tom & Jake's Barbershop,Denver,2,5,lzAOLzg-4Z--vDu9zLSXHQ
+1108,Tom & Jake's Barbershop,Denver,2,5,lzAOLzg-4Z--vDu9zLSXHQ
+1109,Tom & Jake's Barbershop,Denver,2,5,lzAOLzg-4Z--vDu9zLSXHQ
+1110,Foxridge Barbers,Denver,2,5,WIkO6z0Wcl8FC_CK-zx0fQ
+1111,Foxridge Barbers,Denver,2,5,WIkO6z0Wcl8FC_CK-zx0fQ
+1112,Foxridge Barbers,Denver,2,5,WIkO6z0Wcl8FC_CK-zx0fQ
+1113,Executive Barbers,Denver,2,5,Ro2etjwywWSszd5FndHRzg
+1114,Executive Barbers,Denver,2,5,Ro2etjwywWSszd5FndHRzg
+1115,Executive Barbers,Denver,2,1,Ro2etjwywWSszd5FndHRzg
+1116,Real Barbers,Denver,2,5,_ux2tZgAsf1WbIGwzRoXEw
+1117,Real Barbers,Denver,2,5,_ux2tZgAsf1WbIGwzRoXEw
+1118,Real Barbers,Denver,2,4,_ux2tZgAsf1WbIGwzRoXEw
+1119,Aurora Highland Barbers,Denver,1,2,84Xh_6cqtuvbmHhEL0AJyw
+1120,Aurora Highland Barbers,Denver,1,5,84Xh_6cqtuvbmHhEL0AJyw
+1121,Aurora Highland Barbers,Denver,1,2,84Xh_6cqtuvbmHhEL0AJyw
+1122,Retro Barbers,Denver,1,5,qpjxi7gEafgCnqrOHU1fCw
+1123,Retro Barbers,Denver,1,1,qpjxi7gEafgCnqrOHU1fCw
+1124,Retro Barbers,Denver,1,2,qpjxi7gEafgCnqrOHU1fCw
+1125,Back In Time Barber Shop,Denver,2,5,OkkPMkUrOXsi0T4psM5OMQ
+1126,Back In Time Barber Shop,Denver,2,5,OkkPMkUrOXsi0T4psM5OMQ
+1127,Back In Time Barber Shop,Denver,2,1,OkkPMkUrOXsi0T4psM5OMQ
+1128,Clipperz Hair Shop,Denver,1,5,lst659dc40JE4sKOb5wYpA
+1129,Clipperz Hair Shop,Denver,1,2,lst659dc40JE4sKOb5wYpA
+1130,Clipperz Hair Shop,Denver,1,5,lst659dc40JE4sKOb5wYpA
+1131,The Art of Shaving,Denver,3,5,OPfbVnCpEQ7H6diESPHuNQ
+1132,The Art of Shaving,Denver,3,1,OPfbVnCpEQ7H6diESPHuNQ
+1133,The Art of Shaving,Denver,3,1,OPfbVnCpEQ7H6diESPHuNQ
+1134,Holly Barbers,Denver,2,5,2Y5meQyCzV1A0n7RPj6V5Q
+1135,Holly Barbers,Denver,2,5,2Y5meQyCzV1A0n7RPj6V5Q
+1136,Holly Barbers,Denver,2,3,2Y5meQyCzV1A0n7RPj6V5Q
+1137,Helen's Barber Shop,Denver,1,5,3C59q0hqboDhmyyONWx8TA
+1138,Helen's Barber Shop,Denver,1,4,3C59q0hqboDhmyyONWx8TA
+1139,Helen's Barber Shop,Denver,1,5,3C59q0hqboDhmyyONWx8TA
+1140,My Barbershop Sola,Denver,1,5,K7I-B2TeSuIlMtsil0wudQ
+1141,My Barbershop Sola,Denver,1,5,K7I-B2TeSuIlMtsil0wudQ
+1142,My Barbershop Sola,Denver,1,5,K7I-B2TeSuIlMtsil0wudQ
+1143,Tony's Barbershop 2,Denver,2,5,L8xzckG-G-ARuXNdwbLCQw
+1144,Tony's Barbershop 2,Denver,2,3,L8xzckG-G-ARuXNdwbLCQw
+1145,Tony's Barbershop 2,Denver,2,5,L8xzckG-G-ARuXNdwbLCQw
+1146,Thunderbird Barbers,Denver,1,5,SE3TgeNQKCEnzFtNb3PaTg
+1147,Thunderbird Barbers,Denver,1,5,SE3TgeNQKCEnzFtNb3PaTg
+1148,Thunderbird Barbers,Denver,1,1,SE3TgeNQKCEnzFtNb3PaTg
+1149,The Barber Den,Denver,1,2,MJT9MvO5bIBDlq2QxxBsfg
+1150,The Barber Den,Denver,1,4,MJT9MvO5bIBDlq2QxxBsfg
+1151,The Barber Den,Denver,1,5,MJT9MvO5bIBDlq2QxxBsfg
+1152,The Hair Line Barbers,Denver,1,5,sSrR6WhpQU6Rj2N9JcepYg
+1153,The Hair Line Barbers,Denver,1,5,sSrR6WhpQU6Rj2N9JcepYg
+1154,The Hair Line Barbers,Denver,1,5,sSrR6WhpQU6Rj2N9JcepYg
+1155,Prime Time Barbers,Denver,2,5,lAClcpBkzPxcXwLVgByHOA
+1156,Prime Time Barbers,Denver,2,5,lAClcpBkzPxcXwLVgByHOA
+1157,Prime Time Barbers,Denver,2,5,lAClcpBkzPxcXwLVgByHOA
+1158,Hair Works,Denver,1,2,SBswwU4wFdXRbB1zMcq2Vw
+1159,Hair Works,Denver,1,1,SBswwU4wFdXRbB1zMcq2Vw
+1160,Hair Works,Denver,1,2,SBswwU4wFdXRbB1zMcq2Vw
+1161,Del's Tonsorial Parlor,Denver,2,5,kzYQvR7Z_Rjq19-t7D_VTA
+1162,Del's Tonsorial Parlor,Denver,2,4,kzYQvR7Z_Rjq19-t7D_VTA
+1163,Del's Tonsorial Parlor,Denver,2,5,kzYQvR7Z_Rjq19-t7D_VTA
+1164,Scott's Barber Shop,Denver,1,5,K1am6EL2Em-2TbEzzNc4EA
+1165,Scott's Barber Shop,Denver,1,5,K1am6EL2Em-2TbEzzNc4EA
+1166,Scott's Barber Shop,Denver,1,5,K1am6EL2Em-2TbEzzNc4EA
+1167,Supreme Style Barber Shop,Denver,2,5,K5W2YVuf9ZoPC4tmpEHWTg
+1168,Supreme Style Barber Shop,Denver,2,4,K5W2YVuf9ZoPC4tmpEHWTg
+1169,Supreme Style Barber Shop,Denver,2,5,K5W2YVuf9ZoPC4tmpEHWTg
+1170,Skullpture,Denver,2,5,szLQK2fjiXWXXYhttrlIwQ
+1171,Skullpture,Denver,2,5,szLQK2fjiXWXXYhttrlIwQ
+1172,Skullpture,Denver,2,5,szLQK2fjiXWXXYhttrlIwQ
+1173,Bert's Edgewater Barber Shop,Denver,1,5,lA2C5TabyOZikRFWb_vlmw
+1174,Bert's Edgewater Barber Shop,Denver,1,4,lA2C5TabyOZikRFWb_vlmw
+1175,Bert's Edgewater Barber Shop,Denver,1,5,lA2C5TabyOZikRFWb_vlmw
+1176,Barber St John,Denver,1,5,nkyC6X5Hqm0bbVwcVc3ziQ
+1177,Barber St John,Denver,1,5,nkyC6X5Hqm0bbVwcVc3ziQ
+1178,Barber St John,Denver,1,5,nkyC6X5Hqm0bbVwcVc3ziQ
+1179,Sam Hills Barber Shop,Denver,1,5,fi_SHKKrPW30QlU1J0f1mg
+1180,Sam Hills Barber Shop,Denver,1,1,fi_SHKKrPW30QlU1J0f1mg
+1181,Sam Hills Barber Shop,Denver,1,1,fi_SHKKrPW30QlU1J0f1mg
+1182,Applewood  Village Barbershop,Denver,2,1,JsbhLKXPXnq7raYL_DL0xw
+1183,Applewood  Village Barbershop,Denver,2,5,JsbhLKXPXnq7raYL_DL0xw
+1184,Applewood  Village Barbershop,Denver,2,5,JsbhLKXPXnq7raYL_DL0xw
+1185,Famouz fadez and tatz,Denver,1,1,juTg63rOzMurUseRw2O9YQ
+1186,Famouz fadez and tatz,Denver,1,4,juTg63rOzMurUseRw2O9YQ
+1187,Famouz fadez and tatz,Denver,1,5,juTg63rOzMurUseRw2O9YQ
+1188,High County Barber,Denver,2,5,Xq_Lr91j4iRtPNtlu1xi3w
+1189,High County Barber,Denver,2,5,Xq_Lr91j4iRtPNtlu1xi3w
+1190,High County Barber,Denver,2,4,Xq_Lr91j4iRtPNtlu1xi3w
+1191,Stan's Downtown Barbers - Ind Plaza,Denver,2,5,redr0aTZdCvTOAnb143zqg
+1192,Stan's Downtown Barbers - Ind Plaza,Denver,2,1,redr0aTZdCvTOAnb143zqg
+1193,Stan's Downtown Barbers - Ind Plaza,Denver,2,5,redr0aTZdCvTOAnb143zqg
+1194,Joe's Salon & Barbers III,Denver,1,5,v7VVCxIoZLt7agtb5Bybow
+1195,Joe's Salon & Barbers III,Denver,1,5,v7VVCxIoZLt7agtb5Bybow
+1196,Joe's Salon & Barbers III,Denver,1,1,v7VVCxIoZLt7agtb5Bybow
+1197,The Crop Shop,Denver,2,1,U1WLjiTgueJqj7-1o3yQqw
+1198,The Crop Shop,Denver,2,1,U1WLjiTgueJqj7-1o3yQqw
+1199,The Crop Shop,Denver,2,1,U1WLjiTgueJqj7-1o3yQqw
+1200,Le's Beauty Salon,Boston,1,5,_dGJuIRF8HZr3bvKMHx_0w
+1201,Le's Beauty Salon,Boston,1,5,_dGJuIRF8HZr3bvKMHx_0w
+1202,Le's Beauty Salon,Boston,1,1,_dGJuIRF8HZr3bvKMHx_0w
+1203,Tweed Barbers Of Boston,Boston,3,5,8UYhEzgkP_Tt49Vs5gqQOw
+1204,Tweed Barbers Of Boston,Boston,3,3,8UYhEzgkP_Tt49Vs5gqQOw
+1205,Tweed Barbers Of Boston,Boston,3,5,8UYhEzgkP_Tt49Vs5gqQOw
+1206,Boston Barber & Tattoo Co.,Boston,1,5,YIz3SVgMJtyuG9eihTaHxg
+1207,Boston Barber & Tattoo Co.,Boston,1,1,YIz3SVgMJtyuG9eihTaHxg
+1208,Boston Barber & Tattoo Co.,Boston,1,5,YIz3SVgMJtyuG9eihTaHxg
+1209,Razors Barbershop & Shave,Boston,1,5,QzxctpTQKeX8rFge6NEOfA
+1210,Razors Barbershop & Shave,Boston,1,5,QzxctpTQKeX8rFge6NEOfA
+1211,Razors Barbershop & Shave,Boston,1,5,QzxctpTQKeX8rFge6NEOfA
+1212,Coco Head Hair Studio,Boston,2,5,6bSQFg8lPXnonUYh9tphdw
+1213,Coco Head Hair Studio,Boston,2,5,6bSQFg8lPXnonUYh9tphdw
+1214,Coco Head Hair Studio,Boston,2,5,6bSQFg8lPXnonUYh9tphdw
+1215,Charlie's Barber Shop,Boston,1,5,HzSL6QI1bdZX2-I_VSiTgw
+1216,Charlie's Barber Shop,Boston,1,5,HzSL6QI1bdZX2-I_VSiTgw
+1217,Charlie's Barber Shop,Boston,1,5,HzSL6QI1bdZX2-I_VSiTgw
+1218,Barbershop Deluxe,Boston,2,5,eR03H04dTYtEOe6bTfG5fA
+1219,Barbershop Deluxe,Boston,2,5,eR03H04dTYtEOe6bTfG5fA
+1220,Barbershop Deluxe,Boston,2,5,eR03H04dTYtEOe6bTfG5fA
+1221,Anfa Barber Shop,Boston,1,5,DU6tQWkcQCAJePs36FC5gA
+1222,Anfa Barber Shop,Boston,1,1,DU6tQWkcQCAJePs36FC5gA
+1223,Anfa Barber Shop,Boston,1,5,DU6tQWkcQCAJePs36FC5gA
+1224,Cut N Edge,Boston,1,5,HgdxmFuqXOePCmirl4gt9w
+1225,Cut N Edge,Boston,1,5,HgdxmFuqXOePCmirl4gt9w
+1226,Cut N Edge,Boston,1,4,HgdxmFuqXOePCmirl4gt9w
+1227,Barbershop Lounge,Boston,3,5,RvifTOjjpXnFPwHHdY5m-w
+1228,Barbershop Lounge,Boston,3,5,RvifTOjjpXnFPwHHdY5m-w
+1229,Barbershop Lounge,Boston,3,5,RvifTOjjpXnFPwHHdY5m-w
+1230,Louie's Hair Cuts,Boston,1,5,Az3_GJA9xAkKa3haMx-jAw
+1231,Louie's Hair Cuts,Boston,1,5,Az3_GJA9xAkKa3haMx-jAw
+1232,Louie's Hair Cuts,Boston,1,5,Az3_GJA9xAkKa3haMx-jAw
+1233,Sal's Barbershop,Boston,1,5,_-LB1MyKoE7dk0RzsQmfow
+1234,Sal's Barbershop,Boston,1,1,_-LB1MyKoE7dk0RzsQmfow
+1235,Sal's Barbershop,Boston,1,5,_-LB1MyKoE7dk0RzsQmfow
+1236,Roosters Men's Grooming Center,Boston,3,5,CMIXOJYXVZhAeCUwKcDo9w
+1237,Roosters Men's Grooming Center,Boston,3,5,CMIXOJYXVZhAeCUwKcDo9w
+1238,Roosters Men's Grooming Center,Boston,3,5,CMIXOJYXVZhAeCUwKcDo9w
+1239,Sly's Barber Shop,Boston,1,5,Iqr6RYwROl3Q5CQrGcK3IA
+1240,Sly's Barber Shop,Boston,1,5,Iqr6RYwROl3Q5CQrGcK3IA
+1241,Sly's Barber Shop,Boston,1,1,Iqr6RYwROl3Q5CQrGcK3IA
+1242,Summer Street Barber Shop,Boston,2,5,Rq6QSybYpq9j9HUmlyhpEw
+1243,Summer Street Barber Shop,Boston,2,5,Rq6QSybYpq9j9HUmlyhpEw
+1244,Summer Street Barber Shop,Boston,2,5,Rq6QSybYpq9j9HUmlyhpEw
+1245,Unique 8 Hair Place,Boston,1,5,vlY2EbErFb1ytT7bdppqlg
+1246,Unique 8 Hair Place,Boston,1,4,vlY2EbErFb1ytT7bdppqlg
+1247,Unique 8 Hair Place,Boston,1,1,vlY2EbErFb1ytT7bdppqlg
+1248,Goodfellas Traditional Barber Shop,Boston,2,5,aUQKBJCO798X_4FXGhypHw
+1249,Goodfellas Traditional Barber Shop,Boston,2,5,aUQKBJCO798X_4FXGhypHw
+1250,Goodfellas Traditional Barber Shop,Boston,2,5,aUQKBJCO798X_4FXGhypHw
+1251,Boston Barber Co,Boston,2,5,TNs_pSg2ZBNxxRNk0r5Gcg
+1252,Boston Barber Co,Boston,2,5,TNs_pSg2ZBNxxRNk0r5Gcg
+1253,Boston Barber Co,Boston,2,1,TNs_pSg2ZBNxxRNk0r5Gcg
+1254,Dente's Barber Shop,Boston,1,5,muw_J9AzMpJ99BazoQyzRg
+1255,Dente's Barber Shop,Boston,1,5,muw_J9AzMpJ99BazoQyzRg
+1256,Dente's Barber Shop,Boston,1,5,muw_J9AzMpJ99BazoQyzRg
+1257,Court Square Styling Shop,Boston,1,5,aWcJaFe7gO4XsAFcuya7jg
+1258,Court Square Styling Shop,Boston,1,5,aWcJaFe7gO4XsAFcuya7jg
+1259,Court Square Styling Shop,Boston,1,5,aWcJaFe7gO4XsAFcuya7jg
+1260,The Barber's Den,Boston,2,5,lTLnBGQ9YHmxnf4_4B7gAQ
+1261,The Barber's Den,Boston,2,5,lTLnBGQ9YHmxnf4_4B7gAQ
+1262,The Barber's Den,Boston,2,5,lTLnBGQ9YHmxnf4_4B7gAQ
+1263,18|8 Fine Men's Salons - Burlington,Boston,2,5,W4AsOTRn1X_V8oP7FFz0eg
+1264,18|8 Fine Men's Salons - Burlington,Boston,2,4,W4AsOTRn1X_V8oP7FFz0eg
+1265,18|8 Fine Men's Salons - Burlington,Boston,2,5,W4AsOTRn1X_V8oP7FFz0eg
+1266,Barber's Den,Boston,2,5,6upIZraE35lJw9AlxHMICQ
+1267,Barber's Den,Boston,2,4,6upIZraE35lJw9AlxHMICQ
+1268,Barber's Den,Boston,2,5,6upIZraE35lJw9AlxHMICQ
+1269,K-oop Hair Styling,Boston,1,5,mQjyhHYBzOJsAxevXZa18A
+1270,K-oop Hair Styling,Boston,1,2,mQjyhHYBzOJsAxevXZa18A
+1271,K-oop Hair Styling,Boston,1,3,mQjyhHYBzOJsAxevXZa18A
+1272,Firicano's Barber Shop,Boston,1,5,M-OdK3nAOEKbQ49y8ajKaw
+1273,Firicano's Barber Shop,Boston,1,5,M-OdK3nAOEKbQ49y8ajKaw
+1274,Firicano's Barber Shop,Boston,1,5,M-OdK3nAOEKbQ49y8ajKaw
+1275,Belsito Barber Shop,Boston,2,5,hAsd7De_8dN1ovfnD7bdCw
+1276,Belsito Barber Shop,Boston,2,5,hAsd7De_8dN1ovfnD7bdCw
+1277,Belsito Barber Shop,Boston,2,5,hAsd7De_8dN1ovfnD7bdCw
+1278,A Barber Shop,Boston,1,5,2t7FWTACV5AStOe2opLkGA
+1279,A Barber Shop,Boston,1,5,2t7FWTACV5AStOe2opLkGA
+1280,A Barber Shop,Boston,1,3,2t7FWTACV5AStOe2opLkGA
+1281,DiSalvo's Barbershop,Boston,2,5,ucc79Z_SDvK_lcrhv2c3gg
+1282,DiSalvo's Barbershop,Boston,2,2,ucc79Z_SDvK_lcrhv2c3gg
+1283,DiSalvo's Barbershop,Boston,2,5,ucc79Z_SDvK_lcrhv2c3gg
+1284,Ojee's Beauty Salon,Boston,1,5,BJZOfJ2nPuEmBLZX2jTihw
+1285,Ojee's Beauty Salon,Boston,1,5,BJZOfJ2nPuEmBLZX2jTihw
+1286,Ojee's Beauty Salon,Boston,1,5,BJZOfJ2nPuEmBLZX2jTihw
+1287,18|8 Fine Men's Salon - Westwood,Boston,2,5,8fMIcGbjtAbGB1VzSkqwFg
+1288,18|8 Fine Men's Salon - Westwood,Boston,2,1,8fMIcGbjtAbGB1VzSkqwFg
+1289,18|8 Fine Men's Salon - Westwood,Boston,2,1,8fMIcGbjtAbGB1VzSkqwFg
+1290,Bostonian Barber Shop,Boston,2,5,WABazCV9z7Wx_hmwdeHTlw
+1291,Bostonian Barber Shop,Boston,2,5,WABazCV9z7Wx_hmwdeHTlw
+1292,Bostonian Barber Shop,Boston,2,1,WABazCV9z7Wx_hmwdeHTlw
+1293,Euphoria Barbershop,Boston,2,5,mJ4iR4lvrFN451SENoWdgA
+1294,Euphoria Barbershop,Boston,2,1,mJ4iR4lvrFN451SENoWdgA
+1295,Euphoria Barbershop,Boston,2,1,mJ4iR4lvrFN451SENoWdgA
+1296,Longwood Barbershop,Boston,2,5,ChNXEKhzPnSYCPRez5ZzVw
+1297,Longwood Barbershop,Boston,2,5,ChNXEKhzPnSYCPRez5ZzVw
+1298,Longwood Barbershop,Boston,2,1,ChNXEKhzPnSYCPRez5ZzVw
+1299,Deep Blue Barber Shop,Boston,2,5,Kq3TJpBukHGwbRfH_6NrUQ
+1300,Deep Blue Barber Shop,Boston,2,5,Kq3TJpBukHGwbRfH_6NrUQ
+1301,Deep Blue Barber Shop,Boston,2,5,Kq3TJpBukHGwbRfH_6NrUQ
+1302,University Barber Shop,Boston,1,5,H4A8hfW1wIrXC1Ek5N7mdQ
+1303,University Barber Shop,Boston,1,5,H4A8hfW1wIrXC1Ek5N7mdQ
+1304,University Barber Shop,Boston,1,2,H4A8hfW1wIrXC1Ek5N7mdQ
+1305,The Men's Room,Boston,3,5,0ZpiQgOmbUW8JBwzZ8ec8Q
+1306,The Men's Room,Boston,3,4,0ZpiQgOmbUW8JBwzZ8ec8Q
+1307,The Men's Room,Boston,3,1,0ZpiQgOmbUW8JBwzZ8ec8Q
+1308,Quincy Cuts,Boston,2,5,MbJ9IhcZoh4MmB52piXyZA
+1309,Quincy Cuts,Boston,2,1,MbJ9IhcZoh4MmB52piXyZA
+1310,Quincy Cuts,Boston,2,5,MbJ9IhcZoh4MmB52piXyZA
+1311,Alibrandi's Barber Shop,Boston,1,5,F0goNz2canUb5wA_VYlmmw
+1312,Alibrandi's Barber Shop,Boston,1,1,F0goNz2canUb5wA_VYlmmw
+1313,Alibrandi's Barber Shop,Boston,1,5,F0goNz2canUb5wA_VYlmmw
+1314,Seaport Barbers,Boston,3,5,fJAvfQ1hEmjzON5ANBskGg
+1315,Seaport Barbers,Boston,3,5,fJAvfQ1hEmjzON5ANBskGg
+1316,Seaport Barbers,Boston,3,1,fJAvfQ1hEmjzON5ANBskGg
+1317,Kalai Hairstyle,Boston,1,5,Ci31i-zr5KYvm3Dhuv3e3A
+1318,Kalai Hairstyle,Boston,1,5,Ci31i-zr5KYvm3Dhuv3e3A
+1319,Kalai Hairstyle,Boston,1,4,Ci31i-zr5KYvm3Dhuv3e3A
+1320,Social Club Barbers,Boston,2,5,dri8JYi_fsgzpsL1EQB4rA
+1321,Social Club Barbers,Boston,2,5,dri8JYi_fsgzpsL1EQB4rA
+1322,Social Club Barbers,Boston,2,5,dri8JYi_fsgzpsL1EQB4rA
+1323,Sal's Barbershop,Boston,2,5,OQJsz5vru7GRS16VJHwkvA
+1324,Sal's Barbershop,Boston,2,5,OQJsz5vru7GRS16VJHwkvA
+1325,Sal's Barbershop,Boston,2,5,OQJsz5vru7GRS16VJHwkvA
+1326,Bah Bah,Boston,1,5,DT8vkTTPfB-U4NVW743xwA
+1327,Bah Bah,Boston,1,5,DT8vkTTPfB-U4NVW743xwA
+1328,Bah Bah,Boston,1,5,DT8vkTTPfB-U4NVW743xwA
+1329,Los Primos Barbershop,Boston,1,5,cX6_Z4sNzj-kDMkEvyWMqg
+1330,Los Primos Barbershop,Boston,1,1,cX6_Z4sNzj-kDMkEvyWMqg
+1331,Los Primos Barbershop,Boston,1,1,cX6_Z4sNzj-kDMkEvyWMqg
+1332,Nu Image,Boston,1,5,wqwN9N5MpRIuiU9LV8Fl4A
+1333,Nu Image,Boston,1,5,wqwN9N5MpRIuiU9LV8Fl4A
+1334,Nu Image,Boston,1,5,wqwN9N5MpRIuiU9LV8Fl4A
+1335,East Coast Barber Shop,Boston,2,5,k6rSdWIoXVIA4g00Bpp_eA
+1336,East Coast Barber Shop,Boston,2,5,k6rSdWIoXVIA4g00Bpp_eA
+1337,East Coast Barber Shop,Boston,2,1,k6rSdWIoXVIA4g00Bpp_eA
+1338,Sully's Barber & Styling Shop,Boston,1,5,dKfT6VhCD3OKYVE2HUrWWg
+1339,Sully's Barber & Styling Shop,Boston,1,1,dKfT6VhCD3OKYVE2HUrWWg
+1340,Sully's Barber & Styling Shop,Boston,1,5,dKfT6VhCD3OKYVE2HUrWWg
+1341,Vasquez Barber Shop,Boston,1,5,E-t6gaBo7_rfQpW5LeWyew
+1342,Vasquez Barber Shop,Boston,1,1,E-t6gaBo7_rfQpW5LeWyew
+1343,Vasquez Barber Shop,Boston,1,1,E-t6gaBo7_rfQpW5LeWyew
+1344,Figaro's Barbershop,Boston,1,4,KLQgacr9BppsQRhGi0bLag
+1345,Figaro's Barbershop,Boston,1,3,KLQgacr9BppsQRhGi0bLag
+1346,Figaro's Barbershop,Boston,1,5,KLQgacr9BppsQRhGi0bLag
+1347,Mario's Men's Salon,Boston,1,5,Tlhmiulvx1CX0xnskZ5GNA
+1348,Mario's Men's Salon,Boston,1,5,Tlhmiulvx1CX0xnskZ5GNA
+1349,Mario's Men's Salon,Boston,1,5,Tlhmiulvx1CX0xnskZ5GNA
+1350,Amaci Salon,Boston,2,5,HE_ZYOXtuS4HBHcm6f7lDg
+1351,Amaci Salon,Boston,2,4,HE_ZYOXtuS4HBHcm6f7lDg
+1352,Amaci Salon,Boston,2,5,HE_ZYOXtuS4HBHcm6f7lDg
+1353,Franco's Hair Studio,Boston,2,5,P2H7ZNs0puKvUZGkSMNDrQ
+1354,Franco's Hair Studio,Boston,2,5,P2H7ZNs0puKvUZGkSMNDrQ
+1355,Franco's Hair Studio,Boston,2,1,P2H7ZNs0puKvUZGkSMNDrQ
+1356,Floyd's 99 Barbershop,Boston,2,5,pZdbRMV9Nzu1pZksp9Y0NQ
+1357,Floyd's 99 Barbershop,Boston,2,5,pZdbRMV9Nzu1pZksp9Y0NQ
+1358,Floyd's 99 Barbershop,Boston,2,1,pZdbRMV9Nzu1pZksp9Y0NQ
+1359,Zen Hair,Boston,2,5,SBaoXfty15HYjrCSPXqjTw
+1360,Zen Hair,Boston,2,1,SBaoXfty15HYjrCSPXqjTw
+1361,Zen Hair,Boston,2,1,SBaoXfty15HYjrCSPXqjTw
+1362,Carbon Salon,Boston,2,5,Ym5rwvubS3Nbq6DEduvwzw
+1363,Carbon Salon,Boston,2,2,Ym5rwvubS3Nbq6DEduvwzw
+1364,Carbon Salon,Boston,2,3,Ym5rwvubS3Nbq6DEduvwzw
+1365,La Flamme Barber Shop,Boston,1,4,QbtNPawuMu7UIfRAfhGJpA
+1366,La Flamme Barber Shop,Boston,1,5,QbtNPawuMu7UIfRAfhGJpA
+1367,La Flamme Barber Shop,Boston,1,5,QbtNPawuMu7UIfRAfhGJpA
+1368,Supercuts,Boston,1,5,950GF-5kqC6FBf4b7tygyw
+1369,Supercuts,Boston,1,1,950GF-5kqC6FBf4b7tygyw
+1370,Supercuts,Boston,1,1,950GF-5kqC6FBf4b7tygyw
+1371,Fast Phil's,Boston,1,5,R3KQqxA8pqcxA-CFy1VSUA
+1372,Fast Phil's,Boston,1,1,R3KQqxA8pqcxA-CFy1VSUA
+1373,Fast Phil's,Boston,1,5,R3KQqxA8pqcxA-CFy1VSUA
+1374,Lessard's Barber Shop,Boston,1,5,RkpyBR0Wy6_uL4He5uxHEg
+1375,Lessard's Barber Shop,Boston,1,5,RkpyBR0Wy6_uL4He5uxHEg
+1376,Lessard's Barber Shop,Boston,1,5,RkpyBR0Wy6_uL4He5uxHEg
+1377,Supercuts,Boston,1,5,-Lmt31Ry8HICwBS-a4Yq9Q
+1378,Supercuts,Boston,1,4,-Lmt31Ry8HICwBS-a4Yq9Q
+1379,Supercuts,Boston,1,1,-Lmt31Ry8HICwBS-a4Yq9Q
+1380,Lee's Hair Story,Boston,2,5,KUOak8lCdT0Yz4y5xxqxyg
+1381,Lee's Hair Story,Boston,2,5,KUOak8lCdT0Yz4y5xxqxyg
+1382,Lee's Hair Story,Boston,2,5,KUOak8lCdT0Yz4y5xxqxyg
+1383,John's Barber Shop,Boston,2,5,ouk-OLREGfpv7owOg6b3tQ
+1384,John's Barber Shop,Boston,2,1,ouk-OLREGfpv7owOg6b3tQ
+1385,John's Barber Shop,Boston,2,3,ouk-OLREGfpv7owOg6b3tQ
+1386,Salvi’s Barber Shop,Boston,1,5,lW0Q4A68p5Vv40FUZpxoLQ
+1387,Salvi’s Barber Shop,Boston,1,1,lW0Q4A68p5Vv40FUZpxoLQ
+1388,Salvi’s Barber Shop,Boston,1,5,lW0Q4A68p5Vv40FUZpxoLQ
+1389,Mel Berkachi's Barbershop,Boston,2,5,RbNbBaWEiGzIPB6u5mDFIQ
+1390,Mel Berkachi's Barbershop,Boston,2,5,RbNbBaWEiGzIPB6u5mDFIQ
+1391,Mel Berkachi's Barbershop,Boston,2,5,RbNbBaWEiGzIPB6u5mDFIQ
+1392,Waltham's Finest Grooming lounge,Boston,1,5,eUZvH0_SbmmVmT8Sb3ekMQ
+1393,Waltham's Finest Grooming lounge,Boston,1,3,eUZvH0_SbmmVmT8Sb3ekMQ
+1394,Waltham's Finest Grooming lounge,Boston,1,3,eUZvH0_SbmmVmT8Sb3ekMQ
+1395,968 The Shop,Boston,1,3,_DXZeKjqcBc7t0UiVUrN5A
+1396,968 The Shop,Boston,1,5,_DXZeKjqcBc7t0UiVUrN5A
+1397,968 The Shop,Boston,1,3,_DXZeKjqcBc7t0UiVUrN5A
+1398,Hair Collage,Boston,2,5,3fituNnsbMQBB2AyAjg1Uw
+1399,Hair Collage,Boston,2,1,3fituNnsbMQBB2AyAjg1Uw
+1400,Hair Collage,Boston,2,4,3fituNnsbMQBB2AyAjg1Uw
+1401,Ann Marie's Barber Shop,Boston,1,5,ynCWoZvWaKDa_0Pc0Hxm-g
+1402,Ann Marie's Barber Shop,Boston,1,5,ynCWoZvWaKDa_0Pc0Hxm-g
+1403,Ann Marie's Barber Shop,Boston,1,5,ynCWoZvWaKDa_0Pc0Hxm-g
+1404,Tony's All-Sport Barbershop,Boston,2,5,YGsCj1F5wGzxNvRV8qfc4Q
+1405,Tony's All-Sport Barbershop,Boston,2,5,YGsCj1F5wGzxNvRV8qfc4Q
+1406,Tony's All-Sport Barbershop,Boston,2,5,YGsCj1F5wGzxNvRV8qfc4Q
+1407,Milton Barber Shop,Boston,1,5,rnRdAZSrlxGf7x7M--xeNg
+1408,Milton Barber Shop,Boston,1,5,rnRdAZSrlxGf7x7M--xeNg
+1409,Milton Barber Shop,Boston,1,2,rnRdAZSrlxGf7x7M--xeNg
+1410,Alton Barbershop,Boston,1,4,IBY6Og0kssO5DclttN8MfA
+1411,Alton Barbershop,Boston,1,1,IBY6Og0kssO5DclttN8MfA
+1412,Alton Barbershop,Boston,1,5,IBY6Og0kssO5DclttN8MfA
+1413,Bunker Hill Barber Shop,Boston,2,5,IsyX6AJ2GuqJZEy9onqSFQ
+1414,Bunker Hill Barber Shop,Boston,2,5,IsyX6AJ2GuqJZEy9onqSFQ
+1415,Bunker Hill Barber Shop,Boston,2,5,IsyX6AJ2GuqJZEy9onqSFQ
+1416,Belmont Barber Shop,Boston,1,5,hxz7D5akvYchsYwp3egLMQ
+1417,Belmont Barber Shop,Boston,1,5,hxz7D5akvYchsYwp3egLMQ
+1418,Belmont Barber Shop,Boston,1,5,hxz7D5akvYchsYwp3egLMQ
+1419,Sal's Barber Shop,Boston,1,4,fXdDAyaJwu5utoI3rxZeNQ
+1420,Sal's Barber Shop,Boston,1,5,fXdDAyaJwu5utoI3rxZeNQ
+1421,Sal's Barber Shop,Boston,1,1,fXdDAyaJwu5utoI3rxZeNQ
+1422,Pat Corcoran's Mens Barber Shop,Boston,2,5,8QGq6YchCeXcTgw3Qbk42w
+1423,Pat Corcoran's Mens Barber Shop,Boston,2,1,8QGq6YchCeXcTgw3Qbk42w
+1424,Pat Corcoran's Mens Barber Shop,Boston,2,1,8QGq6YchCeXcTgw3Qbk42w
+1425,Central Barber Shop,Boston,1,5,Y6OYJ4lKAtDJm1vpu7HSCg
+1426,Central Barber Shop,Boston,1,3,Y6OYJ4lKAtDJm1vpu7HSCg
+1427,Central Barber Shop,Boston,1,5,Y6OYJ4lKAtDJm1vpu7HSCg
+1428,Mike's Classic Barber Shop,Boston,1,5,SnvKfZ8JnbwmowYjeFBMjQ
+1429,Mike's Classic Barber Shop,Boston,1,4,SnvKfZ8JnbwmowYjeFBMjQ
+1430,Mike's Classic Barber Shop,Boston,1,5,SnvKfZ8JnbwmowYjeFBMjQ
+1431,Mike's Barber Shop,Boston,2,4,kLGXuYv6I2PtG3-InJ6PSQ
+1432,Mike's Barber Shop,Boston,2,5,kLGXuYv6I2PtG3-InJ6PSQ
+1433,Mike's Barber Shop,Boston,2,1,kLGXuYv6I2PtG3-InJ6PSQ
+1434,Superior Image Barbershop,Boston,1,5,QxUiBtg1caY7iik18OMkCg
+1435,Superior Image Barbershop,Boston,1,5,QxUiBtg1caY7iik18OMkCg
+1436,Superior Image Barbershop,Boston,1,5,QxUiBtg1caY7iik18OMkCg
+1437,LoGrasso's Barbershop,Boston,2,5,TqWC4OeutW5L6AaeIyn-MQ
+1438,LoGrasso's Barbershop,Boston,2,1,TqWC4OeutW5L6AaeIyn-MQ
+1439,LoGrasso's Barbershop,Boston,2,5,TqWC4OeutW5L6AaeIyn-MQ
+1440,Michael's Hair Cutting For Men,Boston,1,5,pq4p1c4tPwZGdOuO9Jr2Sw
+1441,Michael's Hair Cutting For Men,Boston,1,5,pq4p1c4tPwZGdOuO9Jr2Sw
+1442,Michael's Hair Cutting For Men,Boston,1,3,pq4p1c4tPwZGdOuO9Jr2Sw
+1443,Clarendon Barbers,Boston,1,5,T1ajogmSER9JQTNcKS0AGQ
+1444,Clarendon Barbers,Boston,1,5,T1ajogmSER9JQTNcKS0AGQ
+1445,Clarendon Barbers,Boston,1,1,T1ajogmSER9JQTNcKS0AGQ
+1446,Yen Hair and Beauty,Boston,1,4,F_q_c_XhuuKMlqvsdZffvA
+1447,Yen Hair and Beauty,Boston,1,5,F_q_c_XhuuKMlqvsdZffvA
+1448,Yen Hair and Beauty,Boston,1,1,F_q_c_XhuuKMlqvsdZffvA
+1449,Technicuts,Boston,2,5,764khisMIwHIr9uyCNvB-A
+1450,Technicuts,Boston,2,5,764khisMIwHIr9uyCNvB-A
+1451,Technicuts,Boston,2,1,764khisMIwHIr9uyCNvB-A
+1452,Tribe Barber,Boston,2,5,ABG4xvKXITBt8Kv9rq1cIQ
+1453,Tribe Barber,Boston,2,1,ABG4xvKXITBt8Kv9rq1cIQ
+1454,Tribe Barber,Boston,2,5,ABG4xvKXITBt8Kv9rq1cIQ
+1455,VIP Barber Shop,Boston,1,5,LT0nrEX6zPOBAwXhRYyuMw
+1456,VIP Barber Shop,Boston,1,1,LT0nrEX6zPOBAwXhRYyuMw
+1457,VIP Barber Shop,Boston,1,5,LT0nrEX6zPOBAwXhRYyuMw
+1458,Lo Grasso's Barber Shop,Boston,1,1,id1WmS5nbd7OBaPg17NzmA
+1459,Lo Grasso's Barber Shop,Boston,1,5,id1WmS5nbd7OBaPg17NzmA
+1460,Lo Grasso's Barber Shop,Boston,1,4,id1WmS5nbd7OBaPg17NzmA
+1461,The Gentlemen's Salon,Boston,2,5,4cYOJQ7HMfYpyhVV_nhxTw
+1462,The Gentlemen's Salon,Boston,2,5,4cYOJQ7HMfYpyhVV_nhxTw
+1463,The Gentlemen's Salon,Boston,2,4,4cYOJQ7HMfYpyhVV_nhxTw
+1464,Fort Hill Barber Shop,Boston,1,5,JxbOGlEG79PndDsKZ2uZvw
+1465,Fort Hill Barber Shop,Boston,1,1,JxbOGlEG79PndDsKZ2uZvw
+1466,Fort Hill Barber Shop,Boston,1,5,JxbOGlEG79PndDsKZ2uZvw
+1467,Sebastian's Barber Shop,Boston,1,5,lLecA5b3qGOC4YjjDD8SVQ
+1468,Sebastian's Barber Shop,Boston,1,5,lLecA5b3qGOC4YjjDD8SVQ
+1469,Sebastian's Barber Shop,Boston,1,5,lLecA5b3qGOC4YjjDD8SVQ
+1470,Chivalry Grooming Parlour,Boston,3,5,iaB38eY7VjMt-V3weeNqIQ
+1471,Chivalry Grooming Parlour,Boston,3,5,iaB38eY7VjMt-V3weeNqIQ
+1472,Chivalry Grooming Parlour,Boston,3,3,iaB38eY7VjMt-V3weeNqIQ
+1473,Primos II Barber Shop,Boston,1,5,PC6wpMYpL5v1i0F0434pWw
+1474,Primos II Barber Shop,Boston,1,5,PC6wpMYpL5v1i0F0434pWw
+1475,Primos II Barber Shop,Boston,1,5,PC6wpMYpL5v1i0F0434pWw
+1476,Black Label Barbershop,Boston,2,5,qPZHXlRJ1iSSYAZJqw_uUg
+1477,Black Label Barbershop,Boston,2,5,qPZHXlRJ1iSSYAZJqw_uUg
+1478,Black Label Barbershop,Boston,2,5,qPZHXlRJ1iSSYAZJqw_uUg
+1479,Perfect Style,Boston,1,5,A40elYI42M6uHujToTs8qA
+1480,Perfect Style,Boston,1,5,A40elYI42M6uHujToTs8qA
+1481,Perfect Style,Boston,1,5,A40elYI42M6uHujToTs8qA
+1482,Gentlemans Choice Barber,Boston,2,5,SZFnnThRFP1DxtbYLrRkkA
+1483,Gentlemans Choice Barber,Boston,2,5,SZFnnThRFP1DxtbYLrRkkA
+1484,Gentlemans Choice Barber,Boston,2,5,SZFnnThRFP1DxtbYLrRkkA
+1485,Skip Scaro's Barber Shop,Boston,1,5,n0t06_NLi9-xH9zEXihO3A
+1486,Skip Scaro's Barber Shop,Boston,1,2,n0t06_NLi9-xH9zEXihO3A
+1487,Skip Scaro's Barber Shop,Boston,1,5,n0t06_NLi9-xH9zEXihO3A
+1488,South Boston Barber Shop,Boston,1,5,oB2YLw6fbph1ZhQZtGx8OQ
+1489,South Boston Barber Shop,Boston,1,5,oB2YLw6fbph1ZhQZtGx8OQ
+1490,South Boston Barber Shop,Boston,1,5,oB2YLw6fbph1ZhQZtGx8OQ
+1491,Angelo's Barber Shop,Boston,4,5,amcBCTCViLv69mtFYfV2Kw
+1492,Angelo's Barber Shop,Boston,4,5,amcBCTCViLv69mtFYfV2Kw
+1493,Angelo's Barber Shop,Boston,4,5,amcBCTCViLv69mtFYfV2Kw
+1494,Society Barbershop,Boston,2,5,B3YtTTP0QSQpOJOgItkhzw
+1495,Society Barbershop,Boston,2,5,B3YtTTP0QSQpOJOgItkhzw
+1496,Society Barbershop,Boston,2,5,B3YtTTP0QSQpOJOgItkhzw
+1497,Mei's Hair Place,Boston,1,5,TFh8OMOLHpndNflu366OTA
+1498,Mei's Hair Place,Boston,1,5,TFh8OMOLHpndNflu366OTA
+1499,Mei's Hair Place,Boston,1,5,TFh8OMOLHpndNflu366OTA
